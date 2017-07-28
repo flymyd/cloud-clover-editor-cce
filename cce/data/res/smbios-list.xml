@@ -1,0 +1,3093 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<SMBIOS>
+<mac model="macbookair11">
+    <BiosReleaseDate>03/17/08</BiosReleaseDate>
+    <BiosVendor>Apple Inc.</BiosVendor>
+    <BiosVersion>MBA11.88Z.00BB.B03.0803171226</BiosVersion>
+    <BoardID>Mac-F42C8CC8</BoardID>
+    <BoardManufacturer>Apple Inc.</BoardManufacturer>
+    <BoardVersion>MacBookAir1,1</BoardVersion>
+    <BoardType>10</BoardType>
+    <ChassisManufacturer>Apple Inc.</ChassisManufacturer>
+    <ChassisType>0A</ChassisType>
+    <ChassisAsset>Air-Enclosure</ChassisAsset>
+    <LocationInChassis>Part Component</LocationInChassis>
+    <Family>MacBook Air</Family>
+    <FirmwareVendor>Apple Inc.</FirmwareVendor>
+    <Manufacturer>Apple Inc.</Manufacturer>
+    <Mobile>true</Mobile>
+    <ProductName>MacBookAir1,1</ProductName>
+    <SmcRevision>1.23f20</SmcRevision>
+    <Version>1.0</Version>
+
+    <PrettyName>MacBook Air 1,1 - Core 2 Duo Penryn</PrettyName>
+    <Year>2008</Year>
+    <ModelId>18X</ModelId>
+
+    <specs>
+        <cpu>Core 2 Duo P7500 / Core 2 Duo P7700</cpu>
+        <gfx>Intel GMA X3100 Graphics</gfx>
+        <ram>667 MHz DDR2 SDRAM</ram>
+    </specs>
+</mac>
+<mac model="macbookair21">
+    <BiosReleaseDate>03/05/10</BiosReleaseDate>
+    <BiosVendor>Apple Inc.</BiosVendor>
+    <BiosVersion>MBA21.88Z.0075.B05.1003051506</BiosVersion>
+    <BoardID>Mac-F42D88C8</BoardID>
+    <BoardManufacturer>Apple Inc.</BoardManufacturer>
+    <BoardVersion>MacBookAir2,1</BoardVersion>
+    <BoardType>10</BoardType>
+    <ChassisManufacturer>Apple Inc.</ChassisManufacturer>
+    <ChassisType>0A</ChassisType>
+    <ChassisAsset>Air-Enclosure</ChassisAsset>
+    <LocationInChassis>Part Component</LocationInChassis>
+    <Family>MacBook Air</Family>
+    <FirmwareVendor>Apple Inc.</FirmwareVendor>
+    <Manufacturer>Apple Inc.</Manufacturer>
+    <Mobile>true</Mobile>
+    <ProductName>MacBookAir2,1</ProductName>
+    <SmcRevision>1.34f8</SmcRevision>
+    <Version>1.0</Version>
+
+    <PrettyName>MacBook Air 2,1 - Core 2 Duo Penryn</PrettyName>
+    <Year>2008</Year>
+    <ModelId>9A7</ModelId>
+
+    <specs>
+        <cpu>Core 2 Duo: SL9300 / SL9400 / SL9600</cpu>
+        <gfx>NVIDIA GeForce 9400M</gfx>
+        <ram>1066 MHz DDR3 SDRAM</ram>
+    </specs>
+</mac>
+<mac model="macbookair31">
+    <BiosReleaseDate>06/26/17</BiosReleaseDate>
+    <BiosVendor>Apple Inc.</BiosVendor>
+    <BiosVersion>MBA31.88Z.0064.B01.1706261714</BiosVersion>
+    <BoardID>Mac-942452F5819B1C1B</BoardID>
+    <BoardManufacturer>Apple Inc.</BoardManufacturer>
+    <BoardVersion>MacBookAir3,1</BoardVersion>
+    <BoardType>10</BoardType>
+    <ChassisManufacturer>Apple Inc.</ChassisManufacturer>
+    <ChassisType>0A</ChassisType>
+    <ChassisAsset>Air-Enclosure</ChassisAsset>
+    <LocationInChassis>Part Component</LocationInChassis>
+    <Family>MacBook Air</Family>
+    <FirmwareVendor>Apple Inc.</FirmwareVendor>
+    <Manufacturer>Apple Inc.</Manufacturer>
+    <Mobile>true</Mobile>
+    <ProductName>MacBookAir3,1</ProductName>
+    <SmcRevision>1.67f10</SmcRevision>
+    <Version>1.0</Version>
+
+    <PrettyName>MacBook Air 3,1 - Core 2 Duo Penryn</PrettyName>
+    <Year>2010</Year>
+    <ModelId>D0QX</ModelId>
+
+    <specs>
+        <cpu>Core 2 Duo SU9400 / Core 2 Duo SU9600</cpu>
+        <gfx>NVIDIA GeForce 320M</gfx>
+        <ram>1066 MHz DDR3 SDRAM</ram>
+    </specs>
+</mac>
+<mac model="macbookair32">
+    <BiosReleaseDate>06/26/17</BiosReleaseDate>
+    <BiosVendor>Apple Inc.</BiosVendor>
+    <BiosVersion>MBA31.88Z.0064.B01.1706261714</BiosVersion>
+    <BoardID>Mac-942C5DF58193131B</BoardID>
+    <BoardManufacturer>Apple Inc.</BoardManufacturer>
+    <BoardVersion>MacBookAir3,2</BoardVersion>
+    <BoardType>10</BoardType>
+    <ChassisManufacturer>Apple Inc.</ChassisManufacturer>
+    <ChassisType>0A</ChassisType>
+    <ChassisAsset>Air-Enclosure</ChassisAsset>
+    <LocationInChassis>Part Component</LocationInChassis>
+    <Family>MacBook Air</Family>
+    <FirmwareVendor>Apple Inc.</FirmwareVendor>
+    <Manufacturer>Apple Inc.</Manufacturer>
+    <Mobile>true</Mobile>
+    <ProductName>MacBookAir3,2</ProductName>
+    <SmcRevision>1.66f61</SmcRevision>
+    <Version>1.0</Version>
+
+    <PrettyName>MacBook Air 3,2 - Core 2 Duo Penryn</PrettyName>
+    <Year>2010</Year>
+    <ModelId>DDR3</ModelId>
+
+    <specs>
+        <cpu>Core 2 Duo SL9400 / Core 2 Duo SL9600</cpu>
+        <gfx>NVIDIA GeForce 320M</gfx>
+        <ram>1066 MHz DDR3 SDRAM</ram>
+    </specs>
+</mac>
+<mac model="macbookair41">
+    <BiosReleaseDate>06/26/2017</BiosReleaseDate>
+    <BiosVendor>Apple Inc.</BiosVendor>
+    <BiosVersion>MBA41.88Z.0078.B01.1706261217</BiosVersion>
+    <BoardID>Mac-C08A6BB70A942AC2</BoardID>
+    <BoardManufacturer>Apple Inc.</BoardManufacturer>
+    <BoardVersion>MacBookAir4,1</BoardVersion>
+    <BoardType>10</BoardType>
+    <ChassisManufacturer>Apple Inc.</ChassisManufacturer>
+    <ChassisType>0A</ChassisType>
+    <ChassisAsset>Air-Enclosure</ChassisAsset>
+    <LocationInChassis>Part Component</LocationInChassis>
+    <Family>MacBook Air</Family>
+    <FirmwareVendor>Apple Inc.</FirmwareVendor>
+    <Manufacturer>Apple Inc.</Manufacturer>
+    <Mobile>true</Mobile>
+    <ProductName>MacBookAir4,1</ProductName>
+    <SmcRevision>1.74f4</SmcRevision>
+    <Version>1.0</Version>
+
+    <PrettyName>MacBook Air 4,1 - Core i5/i7 Sandy Bridge</PrettyName>
+    <Year>2011</Year>
+    <ModelId>DRV9</ModelId>
+
+    <specs>
+        <cpu>Core i5-2467M / Core i7-2677M</cpu>
+        <gfx>Intel HD Graphics 3000</gfx>
+        <ram>1333 MHz DDR3 SDRAM</ram>
+    </specs>
+</mac>
+<mac model="macbookair42">
+    <BiosReleaseDate>06/26/2017</BiosReleaseDate>
+    <BiosVendor>Apple Inc.</BiosVendor>
+    <BiosVersion>MBA41.88Z.0078.B01.1706261217</BiosVersion>
+    <BoardID>Mac-742912EFDBEE19B3</BoardID>
+    <BoardManufacturer>Apple Inc.</BoardManufacturer>
+    <BoardVersion>MacBookAir4,2</BoardVersion>
+    <BoardType>10</BoardType>
+    <ChassisManufacturer>Apple Inc.</ChassisManufacturer>
+    <ChassisType>0A</ChassisType>
+    <ChassisAsset>Air-Enclosure</ChassisAsset>
+    <LocationInChassis>Part Component</LocationInChassis>
+    <Family>MacBook Air</Family>
+    <FirmwareVendor>Apple Inc.</FirmwareVendor>
+    <Manufacturer>Apple Inc.</Manufacturer>
+    <Mobile>true</Mobile>
+    <ProductName>MacBookAir4,2</ProductName>
+    <SmcRevision>1.73f66</SmcRevision>
+    <Version>1.0</Version>
+
+    <PrettyName>MacBook Air 4,2 - Core i5/i7 Sandy Bridge</PrettyName>
+    <Year>2011</Year>
+    <ModelId>DJWT</ModelId>
+
+    <specs>
+        <cpu>Core i5-2467M / Core i5-2557M / Core i7-2677M</cpu>
+        <gfx>Intel HD Graphics 3000</gfx>
+        <ram>1333 MHz DDR3 SDRAM</ram>
+    </specs>
+</mac>
+<mac model="macbookair51">
+    <BiosReleaseDate>06/26/2017</BiosReleaseDate>
+    <BiosVendor>Apple Inc.</BiosVendor>
+    <BiosVersion>MBA51.88Z.00F1.B01.1706261433</BiosVersion>
+    <BoardID>Mac-66F35F19FE2A0D05</BoardID>
+    <BoardManufacturer>Apple Inc.</BoardManufacturer>
+    <BoardVersion>MacBookAir5,1</BoardVersion>
+    <BoardType>10</BoardType>
+    <ChassisManufacturer>Apple Inc.</ChassisManufacturer>
+    <ChassisType>0A</ChassisType>
+    <ChassisAsset>Air-Enclosure</ChassisAsset>
+    <LocationInChassis>Part Component</LocationInChassis>
+    <Family>MacBook Air</Family>
+    <FirmwareVendor>Apple Inc.</FirmwareVendor>
+    <Manufacturer>Apple Inc.</Manufacturer>
+    <Mobile>true</Mobile>
+    <ProductName>MacBookAir5,1</ProductName>
+    <SmcRevision>2.4f19</SmcRevision>
+    <Version>1.0</Version>
+
+    <PrettyName>MacBook Air 5,1 - Core i5/i7 Ivy Bridge</PrettyName>
+    <Year>2012</Year>
+    <ModelId>DRV6</ModelId>
+
+    <specs>
+        <cpu>Core i5-3317U / Core i7-3667U</cpu>
+        <gfx>Intel HD Graphics 4000</gfx>
+        <ram>1600 MHz DDR3L SDRAM</ram>
+    </specs>
+</mac>
+<mac model="macbookair52">
+    <BiosReleaseDate>06/26/2017</BiosReleaseDate>
+    <BiosVendor>Apple Inc.</BiosVendor>
+    <BiosVersion>MBA51.88Z.00F1.B01.1706261433</BiosVersion>
+    <BoardID>Mac-2E6FAB96566FE58C</BoardID>
+    <BoardManufacturer>Apple Inc.</BoardManufacturer>
+    <BoardVersion>MacBookAir5,2</BoardVersion>
+    <BoardType>10</BoardType>
+    <ChassisManufacturer>Apple Inc.</ChassisManufacturer>
+    <ChassisType>0A</ChassisType>
+    <ChassisAsset>Air-Enclosure</ChassisAsset>
+    <LocationInChassis>Part Component</LocationInChassis>
+    <Family>MacBook Air</Family>
+    <FirmwareVendor>Apple Inc.</FirmwareVendor>
+    <Manufacturer>Apple Inc.</Manufacturer>
+    <Mobile>true</Mobile>
+    <ProductName>MacBookAir5,2</ProductName>
+    <SmcRevision>2.5f9</SmcRevision>
+    <Version>1.0</Version>
+
+    <PrettyName>MacBook Air 5,2 - Core i5/i7 Ivy Bridge</PrettyName>
+    <Year>2012,2013</Year>
+    <ModelId>DRVC</ModelId>
+
+    <specs>
+        <cpu>Core i5-3427U / Core i5-3317U / Core i7-3667U</cpu>
+        <gfx>Intel HD Graphics 4000</gfx>
+        <ram>1600 MHz DDR3L SDRAM</ram>
+    </specs>
+</mac>
+<mac model="macbookair61">
+    <BiosReleaseDate>06/26/2017</BiosReleaseDate>
+    <BiosVendor>Apple Inc.</BiosVendor>
+    <BiosVersion>MBA61.88Z.0100.B01.1706261827</BiosVersion>
+    <BoardID>Mac-35C1E88140C3E6CF</BoardID>
+    <BoardManufacturer>Apple Inc.</BoardManufacturer>
+    <BoardVersion>MacBookAir6,1</BoardVersion>
+    <BoardType>10</BoardType>
+    <ChassisManufacturer>Apple Inc.</ChassisManufacturer>
+    <ChassisType>0A</ChassisType>
+    <ChassisAsset>Air-Enclosure</ChassisAsset>
+    <LocationInChassis>Part Component</LocationInChassis>
+    <Family>MacBook Air</Family>
+    <FirmwareVendor>Apple Inc.</FirmwareVendor>
+    <Manufacturer>Apple Inc.</Manufacturer>
+    <Mobile>true</Mobile>
+    <ProductName>MacBookAir6,1</ProductName>
+    <SmcRevision>2.12f143</SmcRevision>
+    <Version>1.0</Version>
+
+    <PrettyName>MacBook Air 6,1 - Core i5/i7 Haswell</PrettyName>
+    <Year>2013,2014</Year>
+    <ModelId>F5NT</ModelId>
+
+    <specs>
+        <cpu>Core: i5-4250U / i5-4260U / i7-4650U</cpu>
+        <gfx>Intel HD Graphics 5000</gfx>
+        <ram>1600 MHz DDR3L SDRAM</ram>
+    </specs>
+</mac>
+<mac model="macbookair62">
+    <BiosReleaseDate>06/26/2017</BiosReleaseDate>
+    <BiosVendor>Apple Inc.</BiosVendor>
+    <BiosVersion>MBA61.88Z.0100.B01.1706261827</BiosVersion>
+    <BoardID>Mac-7DF21CB3ED6977E5</BoardID>
+    <BoardManufacturer>Apple Inc.</BoardManufacturer>
+    <BoardVersion>MacBookAir6,2</BoardVersion>
+    <BoardType>10</BoardType>
+    <ChassisManufacturer>Apple Inc.</ChassisManufacturer>
+    <ChassisType>0A</ChassisType>
+    <ChassisAsset>Air-Enclosure</ChassisAsset>
+    <LocationInChassis>Part Component</LocationInChassis>
+    <Family>MacBook Air</Family>
+    <FirmwareVendor>Apple Inc.</FirmwareVendor>
+    <Manufacturer>Apple Inc.</Manufacturer>
+    <Mobile>true</Mobile>
+    <ProductName>MacBookAir6,2</ProductName>
+    <SmcRevision>2.13f15</SmcRevision>
+    <Version>1.0</Version>
+
+    <PrettyName>MacBook Air 6,2 - Core i5/i7 Haswell</PrettyName>
+    <Year>2013</Year>
+    <ModelId>F5V7</ModelId>
+
+    <specs>
+        <cpu>Core i5-4250U / Core i5-4260U / Core i7-4650U</cpu>
+        <gfx>Intel HD Graphics 5000</gfx>
+        <ram>1600 MHz LPDDR3 SDRAM</ram>
+    </specs>
+</mac>
+<mac model="macbookair71">
+    <BiosReleaseDate>06/26/2017</BiosReleaseDate>
+    <BiosVendor>Apple Inc.</BiosVendor>
+    <BiosVersion>MBA71.88Z.0167.B01.1706261032</BiosVersion>
+    <BoardID>Mac-9F18E312C5C2BF0B</BoardID>
+    <BoardManufacturer>Apple Inc.</BoardManufacturer>
+    <BoardVersion>MacBookAir7,1</BoardVersion>
+    <BoardType>10</BoardType>
+    <ChassisManufacturer>Apple Inc.</ChassisManufacturer>
+    <ChassisType>09</ChassisType>
+    <ChassisAsset>Air-Enclosure</ChassisAsset>
+    <LocationInChassis/>
+    <Family>MacBook Air</Family>
+    <FirmwareVendor>Apple Inc.</FirmwareVendor>
+    <Manufacturer>Apple Inc.</Manufacturer>
+    <Mobile>true</Mobile>
+    <ProductName>MacBookAir7,1</ProductName>
+    <SmcRevision>2.26f2</SmcRevision>
+    <Version>1.0</Version>
+
+    <PrettyName>MacBook Air 7,1 - Core i5/i7 Broadwell</PrettyName>
+    <Year>2015</Year>
+    <ModelId>H569</ModelId>
+
+    <specs>
+        <cpu>Core i5-5250U / Core i7-5650U</cpu>
+        <gfx>Intel HD Graphics 6000</gfx>
+        <ram>1600 MHz LPDDR3 SDRAM</ram>
+    </specs>
+</mac>
+<mac model="macbookair72">
+    <BiosReleaseDate>06/26/2017</BiosReleaseDate>
+    <BiosVendor>Apple Inc.</BiosVendor>
+    <BiosVersion>MBA71.88Z.0167.B01.1706261032</BiosVersion>
+    <BoardID>Mac-937CB26E2E02BB01</BoardID>
+    <BoardManufacturer>Apple Inc.</BoardManufacturer>
+    <BoardVersion>MacBookAir7,2</BoardVersion>
+    <BoardType>10</BoardType>
+    <ChassisManufacturer>Apple Inc.</ChassisManufacturer>
+    <ChassisType>09</ChassisType>
+    <ChassisAsset>Air-Enclosure</ChassisAsset>
+    <LocationInChassis/>
+    <Family>MacBook Air</Family>
+    <FirmwareVendor>Apple Inc.</FirmwareVendor>
+    <Manufacturer>Apple Inc.</Manufacturer>
+    <Mobile>true</Mobile>
+    <ProductName>MacBookAir7,2</ProductName>
+    <SmcRevision>2.27f2</SmcRevision>
+    <Version>1.0</Version>
+
+    <PrettyName>MacBook Air 7,2 - Core i5/i7 Broadwell</PrettyName>
+    <Year>2015</Year>
+    <ModelId>G940</ModelId>
+
+    <specs>
+        <cpu>Core i5-5250U / Core i7-5650U</cpu>
+        <gfx>Intel HD Graphics 6000</gfx>
+        <ram>1600 MHz LPDDR3 SDRAM</ram>
+    </specs>
+</mac>
+<mac model="macbookpro11">
+    <BiosReleaseDate>10/12/06</BiosReleaseDate>
+    <BiosVendor>Apple Inc.</BiosVendor>
+    <BiosVersion>MBP11.88Z.0055.B08.0610121325</BiosVersion>
+    <BoardID>Mac-F425BEC8</BoardID>
+    <BoardManufacturer>Apple Inc.</BoardManufacturer>
+    <BoardVersion>MacBookPro1,1</BoardVersion>
+    <BoardType>10</BoardType>
+    <ChassisManufacturer>Apple Inc.</ChassisManufacturer>
+    <ChassisType>08</ChassisType>
+    <ChassisAsset>MacBook-Aluminum</ChassisAsset>
+    <LocationInChassis>Part Component</LocationInChassis>
+    <Family>MacBook Pro</Family>
+    <FirmwareVendor>Apple Inc.</FirmwareVendor>
+    <Manufacturer>Apple Inc.</Manufacturer>
+    <Mobile>true</Mobile>
+    <ProductName>MacBookPro1,1</ProductName>
+    <SmcRevision>1.2f10</SmcRevision>
+    <Version>1.0</Version>
+
+    <PrettyName>MacBook Pro 1,1 - Core Duo Yonah</PrettyName>
+    <Year>2007,2008</Year>
+    <ModelId>VJ1</ModelId>
+
+    <specs>
+        <cpu>Core Duo T2400 / Core Duo T2500 / Core Duo T2600 / Core Duo L2400</cpu>
+        <gfx>ATI Mobility Radeon X1600</gfx>
+        <ram>667 MHz PC2-5300 DDR2 SDRAM</ram>
+    </specs>
+</mac>
+<mac model="macbookpro12">
+    <BiosReleaseDate>10/12/06</BiosReleaseDate>
+    <BiosVendor>Apple Inc.</BiosVendor>
+    <BiosVersion>MBP12.88Z.0061.B03.0610121334</BiosVersion>
+    <BoardID>Mac-F42DBEC8</BoardID>
+    <BoardManufacturer>Apple Inc.</BoardManufacturer>
+    <BoardVersion>MacBookPro1,2</BoardVersion>
+    <BoardType>10</BoardType>
+    <ChassisManufacturer>Apple Inc.</ChassisManufacturer>
+    <ChassisType>08</ChassisType>
+    <ChassisAsset>MacBook-Aluminum</ChassisAsset>
+    <LocationInChassis>Part Component</LocationInChassis>
+    <Family>MacBook Pro</Family>
+    <FirmwareVendor>Apple Inc.</FirmwareVendor>
+    <Manufacturer>Apple Inc.</Manufacturer>
+    <Mobile>true</Mobile>
+    <ProductName>MacBookPro1,2</ProductName>
+    <SmcRevision>1.5f10</SmcRevision>
+    <Version>1.0</Version>
+
+    <PrettyName>MacBook Pro 1,2 - Core Duo Yonah</PrettyName>
+    <Year>2006</Year>
+    <ModelId>THY</ModelId>
+
+    <specs>
+        <cpu>Core Duo T2600</cpu>
+        <gfx>ATI Mobility Radeon X1600</gfx>
+        <ram>667 MHz DDR2 SDRAM (PC2-5300)</ram>
+    </specs>
+</mac>
+<mac model="macbookpro21">
+    <BiosReleaseDate>08/13/07</BiosReleaseDate>
+    <BiosVendor>Apple Inc.</BiosVendor>
+    <BiosVersion>MBP21.88Z.00A5.B08.0708131242</BiosVersion>
+    <BoardID>Mac-F42189C8</BoardID>
+    <BoardManufacturer>Apple Inc.</BoardManufacturer>
+    <BoardVersion>MacBookPro2,1</BoardVersion>
+    <BoardType>10</BoardType>
+    <ChassisManufacturer>Apple Inc.</ChassisManufacturer>
+    <ChassisType>08</ChassisType>
+    <ChassisAsset>MacBook-Aluminum</ChassisAsset>
+    <LocationInChassis>Part Component</LocationInChassis>
+    <Family>MacBook Pro</Family>
+    <FirmwareVendor>Apple Inc.</FirmwareVendor>
+    <Manufacturer>Apple Inc.</Manufacturer>
+    <Mobile>true</Mobile>
+    <ProductName>MacBookPro2,1</ProductName>
+    <SmcRevision>1.14f5</SmcRevision>
+    <Version>1.0</Version>
+
+    <PrettyName>MacBook Pro 2,1 - Core 2 Duo Merom</PrettyName>
+    <Year>2006</Year>
+    <ModelId>W0H</ModelId>
+
+    <specs>
+        <cpu>Core 2 Duo T7600</cpu>
+        <gfx>ATI Mobility Radeon X1600</gfx>
+        <ram>667 MHz PC2-5300 DDR2 SDRAM</ram>
+    </specs>
+</mac>
+<mac model="macbookpro22">
+    <BiosReleaseDate>08/13/07</BiosReleaseDate>
+    <BiosVendor>Apple Inc.</BiosVendor>
+    <BiosVersion>MBP22.88Z.00A5.B07.0708131242</BiosVersion>
+    <BoardID>Mac-F42187C8</BoardID>
+    <BoardManufacturer>Apple Inc.</BoardManufacturer>
+    <BoardVersion>MacBookPro2,2</BoardVersion>
+    <BoardType>10</BoardType>
+    <ChassisManufacturer>Apple Inc.</ChassisManufacturer>
+    <ChassisType>08</ChassisType>
+    <ChassisAsset>MacBook-Aluminum</ChassisAsset>
+    <LocationInChassis>Part Component</LocationInChassis>
+    <Family>MacBook Pro</Family>
+    <FirmwareVendor>Apple Inc.</FirmwareVendor>
+    <Manufacturer>Apple Inc.</Manufacturer>
+    <Mobile>true</Mobile>
+    <ProductName>MacBookPro2,2</ProductName>
+    <SmcRevision>1.13f3</SmcRevision>
+    <Version>1.0</Version>
+
+    <PrettyName>MacBook Pro 2,2 - Core 2 Duo Merom</PrettyName>
+    <Year>2006</Year>
+    <ModelId>W0L</ModelId>
+
+    <specs>
+        <cpu>Core 2 Duo T7400 / Core 2 Duo T7600</cpu>
+        <gfx>ATI Mobility Radeon X1600</gfx>
+        <ram>667 MHz PC2-5300 DDR2 SDRAM</ram>
+    </specs>
+</mac>
+<mac model="macbookpro31">
+    <BiosReleaseDate>03/05/08</BiosReleaseDate>
+    <BiosVendor>Apple Inc.</BiosVendor>
+    <BiosVersion>MBP31.88Z.0070.B07.0803051658</BiosVersion>
+    <BoardID>Mac-F4238BC8</BoardID>
+    <BoardManufacturer>Apple Inc.</BoardManufacturer>
+    <BoardVersion>MacBookPro3,1</BoardVersion>
+    <BoardType>10</BoardType>
+    <ChassisManufacturer>Apple Inc.</ChassisManufacturer>
+    <ChassisType>08</ChassisType>
+    <ChassisAsset>MacBook-Aluminum</ChassisAsset>
+    <LocationInChassis>Part Component</LocationInChassis>
+    <Family>MacBook Pro</Family>
+    <FirmwareVendor>Apple Inc.</FirmwareVendor>
+    <Manufacturer>Apple Inc.</Manufacturer>
+    <Mobile>true</Mobile>
+    <ProductName>MacBookPro3,1</ProductName>
+    <SmcRevision>1.16f11</SmcRevision>
+    <Version>1.0</Version>
+
+    <PrettyName>MacBook Pro 3,1 - Core 2 Duo Merom</PrettyName>
+    <Year>2007,2008</Year>
+    <ModelId>X91</ModelId>
+
+    <specs>
+        <cpu>Core 2 Duo T7800 / Core 2 Duo T7500 / Core 2 Duo T7700</cpu>
+        <gfx>NVIDIA GeForce 8600M GT</gfx>
+        <ram>667 MHz PC2-5300 DDR2 SDRAM</ram>
+    </specs>
+</mac>
+<mac model="macbookpro41">
+    <BiosReleaseDate>02/27/08</BiosReleaseDate>
+    <BiosVendor>Apple Inc.</BiosVendor>
+    <BiosVersion>MBP41.88Z.00C1.B03.0802271651</BiosVersion>
+    <BoardID>Mac-F42C89C8</BoardID>
+    <BoardManufacturer>Apple Inc.</BoardManufacturer>
+    <BoardVersion>MacBookPro4,1</BoardVersion>
+    <BoardType>10</BoardType>
+    <ChassisManufacturer>Apple Inc.</ChassisManufacturer>
+    <ChassisType>08</ChassisType>
+    <ChassisAsset>MacBook-Aluminum</ChassisAsset>
+    <LocationInChassis>Part Component</LocationInChassis>
+    <Family>MacBook Pro</Family>
+    <FirmwareVendor>Apple Inc.</FirmwareVendor>
+    <Manufacturer>Apple Inc.</Manufacturer>
+    <Mobile>true</Mobile>
+    <ProductName>MacBookPro4,1</ProductName>
+    <SmcRevision>1.27f3</SmcRevision>
+    <Version>1.0</Version>
+
+    <PrettyName>MacBook Pro 4,1 - Core 2 Duo Penryn</PrettyName>
+    <Year>2008</Year>
+    <ModelId>YP4</ModelId>
+
+    <specs>
+        <cpu>Core 2 Duo T9500 / Core 2 Duo T8300 / Core 2 Duo T9300</cpu>
+        <gfx>NVIDIA GeForce 8600M GT</gfx>
+        <ram>667 MHz PC2-5300 DDR2 SDRAM</ram>
+    </specs>
+</mac>
+<mac model="macbookpro51">
+    <BiosReleaseDate>02/06/12</BiosReleaseDate>
+    <BiosVendor>Apple Inc.</BiosVendor>
+    <BiosVersion>MBP51.88Z.007E.B06.1202061253</BiosVersion>
+    <BoardID>Mac-F42D86C8</BoardID>
+    <BoardManufacturer>Apple Inc.</BoardManufacturer>
+    <BoardVersion>MacBookPro5,1</BoardVersion>
+    <BoardType>10</BoardType>
+    <ChassisManufacturer>Apple Inc.</ChassisManufacturer>
+    <ChassisType>08</ChassisType>
+    <ChassisAsset>MacBook-Aluminum</ChassisAsset>
+    <LocationInChassis>Part Component</LocationInChassis>
+    <Family>MacBook Pro</Family>
+    <FirmwareVendor>Apple Inc.</FirmwareVendor>
+    <Manufacturer>Apple Inc.</Manufacturer>
+    <Mobile>true</Mobile>
+    <ProductName>MacBookPro5,1</ProductName>
+    <SmcRevision>1.33f8</SmcRevision>
+    <Version>1.0</Version>
+
+    <PrettyName>MacBook Pro 5,1 - Core 2 Duo Penryn</PrettyName>
+    <Year>2008,2009</Year>
+    <ModelId>1G0</ModelId>
+
+    <specs>
+        <cpu>Core 2 Duo: T9800 / T9400 / T9550 / T9600 / P8600</cpu>
+        <gfx>NVIDIA GeForce 9600M GT</gfx>
+        <ram>1066 MHz DDR3 SDRAM</ram>
+    </specs>
+</mac>
+<mac model="macbookpro52">
+    <BiosReleaseDate>05/04/09</BiosReleaseDate>
+    <BiosVendor>Apple Inc.</BiosVendor>
+    <BiosVersion>MBP52.88Z.008E.B05.0905042202</BiosVersion>
+    <BoardID>Mac-F2268EC8</BoardID>
+    <BoardManufacturer>Apple Inc.</BoardManufacturer>
+    <BoardVersion>MacBookPro5,2</BoardVersion>
+    <BoardType>10</BoardType>
+    <ChassisManufacturer>Apple Inc.</ChassisManufacturer>
+    <ChassisType>08</ChassisType>
+    <ChassisAsset>MacBook-Aluminum</ChassisAsset>
+    <LocationInChassis>Part Component</LocationInChassis>
+    <Family>MacBook Pro</Family>
+    <FirmwareVendor>Apple Inc.</FirmwareVendor>
+    <Manufacturer>Apple Inc.</Manufacturer>
+    <Mobile>true</Mobile>
+    <ProductName>MacBookPro5,2</ProductName>
+    <SmcRevision>1.42f4</SmcRevision>
+    <Version>1.0</Version>
+
+    <PrettyName>MacBook Pro 5,2 - Core 2 Duo Penryn</PrettyName>
+    <Year>2009</Year>
+    <ModelId>2QP</ModelId>
+
+    <specs>
+        <cpu>Core 2 Duo: T9550 / T9800 / T9600 / T9900</cpu>
+        <gfx>NVIDIA GeForce 9600M GT + NVIDIA GeForce 9400M</gfx>
+        <ram>1066 MHz DDR3 SDRAM (PC3-8500)</ram>
+    </specs>
+</mac>
+<mac model="macbookpro53">
+    <BiosReleaseDate>06/15/09</BiosReleaseDate>
+    <BiosVendor>Apple Inc.</BiosVendor>
+    <BiosVersion>MBP53.88Z.00AC.B03.0906151647</BiosVersion>
+    <BoardID>Mac-F22587C8</BoardID>
+    <BoardManufacturer>Apple Inc.</BoardManufacturer>
+    <BoardVersion>MacBookPro5,3</BoardVersion>
+    <BoardType>10</BoardType>
+    <ChassisManufacturer>Apple Inc.</ChassisManufacturer>
+    <ChassisType>08</ChassisType>
+    <ChassisAsset>MacBook-Aluminum</ChassisAsset>
+    <LocationInChassis>Part Component</LocationInChassis>
+    <Family>MacBook Pro</Family>
+    <FirmwareVendor>Apple Inc.</FirmwareVendor>
+    <Manufacturer>Apple Inc.</Manufacturer>
+    <Mobile>true</Mobile>
+    <ProductName>MacBookPro5,3</ProductName>
+    <SmcRevision>1.48f2</SmcRevision>
+    <Version>1.0</Version>
+
+    <PrettyName>MacBook Pro 5,3 - Core 2 Duo Penryn</PrettyName>
+    <Year>2009</Year>
+    <ModelId>7XK</ModelId>
+
+    <specs>
+        <cpu>Core 2 Duo: P8800 / T9600 / T9900</cpu>
+        <gfx>NVIDIA GeForce 9600M GT + NVIDIA GeForce 9400M</gfx>
+        <ram>1066 MHz DDR3 SDRAM</ram>
+    </specs>
+</mac>
+<mac model="macbookpro54">
+    <BiosReleaseDate>06/15/09</BiosReleaseDate>
+    <BiosVendor>Apple Inc.</BiosVendor>
+    <BiosVersion>MBP53.88Z.00AC.B03.0906151647</BiosVersion>
+    <BoardID>Mac-F22587A1</BoardID>
+    <BoardManufacturer>Apple Inc.</BoardManufacturer>
+    <BoardVersion>MacBookPro5,4</BoardVersion>
+    <BoardType>10</BoardType>
+    <ChassisManufacturer>Apple Inc.</ChassisManufacturer>
+    <ChassisType>08</ChassisType>
+    <ChassisAsset>MacBook-Aluminum</ChassisAsset>
+    <LocationInChassis>Part Component</LocationInChassis>
+    <Family>MacBook Pro</Family>
+    <FirmwareVendor>Apple Inc.</FirmwareVendor>
+    <Manufacturer>Apple Inc.</Manufacturer>
+    <Mobile>true</Mobile>
+    <ProductName>MacBookPro5,4</ProductName>
+    <SmcRevision>1.49f2</SmcRevision>
+    <Version>1.0</Version>
+
+    <PrettyName>MacBook Pro 5,4 - Core 2 Duo Penryn</PrettyName>
+    <Year>2009</Year>
+    <ModelId>7XJ</ModelId>
+
+    <specs>
+        <cpu>Core 2 Duo P8700</cpu>
+        <gfx>NVIDIA GeForce 9400M</gfx>
+        <ram>1066 MHz DDR3 SDRAM (PC3-8500)</ram>
+    </specs>
+</mac>
+<mac model="macbookpro55">
+    <BiosReleaseDate>06/15/09</BiosReleaseDate>
+    <BiosVendor>Apple Inc.</BiosVendor>
+    <BiosVersion>MBP55.88Z.00AC.B03.0906151708</BiosVersion>
+    <BoardID>Mac-F2268AC8</BoardID>
+    <BoardManufacturer>Apple Inc.</BoardManufacturer>
+    <BoardVersion>MacBookPro5,5</BoardVersion>
+    <BoardType>10</BoardType>
+    <ChassisManufacturer>Apple Inc.</ChassisManufacturer>
+    <ChassisType>08</ChassisType>
+    <ChassisAsset>MacBook-Aluminum</ChassisAsset>
+    <LocationInChassis>Part Component</LocationInChassis>
+    <Family>MacBook Pro</Family>
+    <FirmwareVendor>Apple Inc.</FirmwareVendor>
+    <Manufacturer>Apple Inc.</Manufacturer>
+    <Mobile>true</Mobile>
+    <ProductName>MacBookPro5,5</ProductName>
+    <SmcRevision>1.47f2</SmcRevision>
+    <Version>1.0</Version>
+
+    <PrettyName>MacBook Pro 5,5 - Core 2 Duo Penryn</PrettyName>
+    <Year>2009,2010</Year>
+    <ModelId>66D</ModelId>
+
+    <specs>
+        <cpu>Core 2 Duo P7550 / Core 2 Duo P8700 / Core 2 Duo P8400</cpu>
+        <gfx>NVIDIA GeForce 9400M</gfx>
+        <ram>1066 MHz DDR3 SDRAM</ram>
+    </specs>
+</mac>
+<mac model="macbookpro61">
+    <BiosReleaseDate>06/26/17</BiosReleaseDate>
+    <BiosVendor>Apple Inc.</BiosVendor>
+    <BiosVersion>MBP61.88Z.0058.B01.1706261104</BiosVersion>
+    <BoardID>Mac-F22589C8</BoardID>
+    <BoardManufacturer>Apple Inc.</BoardManufacturer>
+    <BoardVersion>MacBookPro6,1</BoardVersion>
+    <BoardType>10</BoardType>
+    <ChassisManufacturer>Apple Inc.</ChassisManufacturer>
+    <ChassisType>08</ChassisType>
+    <ChassisAsset>MacBook-Aluminum</ChassisAsset>
+    <LocationInChassis>Part Component</LocationInChassis>
+    <Family>MacBook Pro</Family>
+    <FirmwareVendor>Apple Inc.</FirmwareVendor>
+    <Manufacturer>Apple Inc.</Manufacturer>
+    <Mobile>true</Mobile>
+    <ProductName>MacBookPro6,1</ProductName>
+    <SmcRevision>1.57f18</SmcRevision>
+    <Version>1.0</Version>
+
+    <PrettyName>MacBook Pro 6,1 - Core i5/i7 Arrandale</PrettyName>
+    <Year>2010,2011</Year>
+    <ModelId>DC79</ModelId>
+
+    <specs>
+        <cpu>Core i5-540M / Core i7-620M / Core i7-640M</cpu>
+        <gfx>NVIDIA GeForce GT 330M</gfx>
+        <ram>1066 MHz DDR3 SDRAM</ram>
+    </specs>
+</mac>
+<mac model="macbookpro62">
+    <BiosReleaseDate>06/26/17</BiosReleaseDate>
+    <BiosVendor>Apple Inc.</BiosVendor>
+    <BiosVersion>MBP61.88Z.0058.B01.1706261104</BiosVersion>
+    <BoardID>Mac-F22586C8</BoardID>
+    <BoardManufacturer>Apple Inc.</BoardManufacturer>
+    <BoardVersion>MacBookPro6,2</BoardVersion>
+    <BoardType>10</BoardType>
+    <ChassisManufacturer>Apple Inc.</ChassisManufacturer>
+    <ChassisType>08</ChassisType>
+    <ChassisAsset>MacBook-Aluminum</ChassisAsset>
+    <LocationInChassis>Part Component</LocationInChassis>
+    <Family>MacBook Pro</Family>
+    <FirmwareVendor>Apple Inc.</FirmwareVendor>
+    <Manufacturer>Apple Inc.</Manufacturer>
+    <Mobile>true</Mobile>
+    <ProductName>MacBookPro6,2</ProductName>
+    <SmcRevision>1.58f17</SmcRevision>
+    <Version>1.0</Version>
+
+    <PrettyName>MacBook Pro 6,2 - Core i5/i7 Arrandale</PrettyName>
+    <Year>2010,2011</Year>
+    <ModelId>AGW</ModelId>
+
+    <specs>
+        <cpu>Core i5-520M / Core i5-540M / Core i7-620M / Core i7-640M</cpu>
+        <gfx>NVIDIA GeForce GT 330M</gfx>
+        <ram>1066 MHz DDR3 SDRAM</ram>
+    </specs>
+</mac>
+<mac model="macbookpro71">
+    <BiosReleaseDate>06/26/17</BiosReleaseDate>
+    <BiosVendor>Apple Inc.</BiosVendor>
+    <BiosVersion>MBP71.88Z.003A.B01.1706261020</BiosVersion>
+    <BoardID>Mac-F222BEC8</BoardID>
+    <BoardManufacturer>Apple Inc.</BoardManufacturer>
+    <BoardVersion>MacBookPro7,1</BoardVersion>
+    <BoardType>10</BoardType>
+    <ChassisManufacturer>Apple Inc.</ChassisManufacturer>
+    <ChassisType>08</ChassisType>
+    <ChassisAsset>MacBook-Aluminum</ChassisAsset>
+    <LocationInChassis>Part Component</LocationInChassis>
+    <Family>MacBook Pro</Family>
+    <FirmwareVendor>Apple Inc.</FirmwareVendor>
+    <Manufacturer>Apple Inc.</Manufacturer>
+    <Mobile>true</Mobile>
+    <ProductName>MacBookPro7,1</ProductName>
+    <SmcRevision>1.62f7</SmcRevision>
+    <Version>1.0</Version>
+
+    <PrettyName>MacBook Pro 7,1 - Core 2 Duo Penryn</PrettyName>
+    <Year>2010,2011</Year>
+    <ModelId>ATM</ModelId>
+
+    <specs>
+        <cpu>Core 2 Duo P8600 / Core 2 Duo P8800</cpu>
+        <gfx>NVIDIA GeForce 320M</gfx>
+        <ram>1066 MHz DDR3 SDRAM</ram>
+    </specs>
+</mac>
+<mac model="macbookpro81">
+    <BiosReleaseDate>06/26/17</BiosReleaseDate>
+    <BiosVendor>Apple Inc.</BiosVendor>
+    <BiosVersion>MBP81.88Z.0049.B01.1706261922</BiosVersion>
+    <BoardID>Mac-94245B3640C91C81</BoardID>
+    <BoardManufacturer>Apple Inc.</BoardManufacturer>
+    <BoardVersion>MacBookPro8,1</BoardVersion>
+    <BoardType>10</BoardType>
+    <ChassisManufacturer>Apple Inc.</ChassisManufacturer>
+    <ChassisType>0A</ChassisType>
+    <ChassisAsset>MacBook-Aluminum</ChassisAsset>
+    <LocationInChassis>Part Component</LocationInChassis>
+    <Family>MacBook Pro</Family>
+    <FirmwareVendor>Apple Inc.</FirmwareVendor>
+    <Manufacturer>Apple Inc.</Manufacturer>
+    <Mobile>true</Mobile>
+    <ProductName>MacBookPro8,1</ProductName>
+    <SmcRevision>1.68f99</SmcRevision>
+    <Version>1.0</Version>
+
+    <PrettyName>MacBook Pro 8,1 - Core i5/i7 Sandy Bridge</PrettyName>
+    <Year>2011,2012</Year>
+    <ModelId>DH2G</ModelId>
+
+    <specs>
+        <cpu>Core i5-2435M / Core i5-2415M / Core i7-2640M / Core i7-2620M</cpu>
+        <gfx>Intel HD Graphics 3000</gfx>
+        <ram>1333 MHz DDR3 SDRAM</ram>
+    </specs>
+</mac>
+<mac model="macbookpro82">
+    <BiosReleaseDate>06/26/17</BiosReleaseDate>
+    <BiosVendor>Apple Inc.</BiosVendor>
+    <BiosVersion>MBP81.88Z.0049.B01.1706261922</BiosVersion>
+    <BoardID>Mac-94245A3940C91C80</BoardID>
+    <BoardManufacturer>Apple Inc.</BoardManufacturer>
+    <BoardVersion>MacBookPro8,2</BoardVersion>
+    <BoardType>10</BoardType>
+    <ChassisManufacturer>Apple Inc.</ChassisManufacturer>
+    <ChassisType>0A</ChassisType>
+    <ChassisAsset>MacBook-Aluminum</ChassisAsset>
+    <LocationInChassis>Part Component</LocationInChassis>
+    <Family>MacBook Pro</Family>
+    <FirmwareVendor>Apple Inc.</FirmwareVendor>
+    <Manufacturer>Apple Inc.</Manufacturer>
+    <Mobile>true</Mobile>
+    <ProductName>MacBookPro8,2</ProductName>
+    <SmcRevision>1.69f4</SmcRevision>
+    <Version>1.0</Version>
+
+    <PrettyName>MacBook Pro 8,2 - Core i7 Sandy Bridge</PrettyName>
+    <Year>2011,2012</Year>
+    <ModelId>DF8X</ModelId>
+
+    <specs>
+        <cpu>Core: i7-2675QM / i7-2820QM / i7-2760QM / i7-2720QM / i7-2860QM</cpu>
+        <gfx>AMD Radeon HD 6750M / AMD Radeon HD 6770M</gfx>
+        <ram>1333 MHz DDR3 SDRAM</ram>
+    </specs>
+</mac>
+<mac model="macbookpro83">
+    <BiosReleaseDate>06/26/17</BiosReleaseDate>
+    <BiosVendor>Apple Inc.</BiosVendor>
+    <BiosVersion>MBP81.88Z.0049.B01.1706261922</BiosVersion>
+    <BoardID>Mac-942459F5819B171B</BoardID>
+    <BoardManufacturer>Apple Inc.</BoardManufacturer>
+    <BoardVersion>MacBookPro8,3</BoardVersion>
+    <BoardType>10</BoardType>
+    <ChassisManufacturer>Apple Inc.</ChassisManufacturer>
+    <ChassisType>0A</ChassisType>
+    <ChassisAsset>MacBook-Aluminum</ChassisAsset>
+    <LocationInChassis>Part Component</LocationInChassis>
+    <Family>MacBook Pro</Family>
+    <FirmwareVendor>Apple Inc.</FirmwareVendor>
+    <Manufacturer>Apple Inc.</Manufacturer>
+    <Mobile>true</Mobile>
+    <ProductName>MacBookPro8,3</ProductName>
+    <SmcRevision>1.70f6</SmcRevision>
+    <Version>1.0</Version>
+
+    <PrettyName>MacBook Pro 8,3 - Core i7 Sandy Bridge</PrettyName>
+    <Year>2011,2012</Year>
+    <ModelId>DF93</ModelId>
+
+    <specs>
+        <cpu>Core i7-2720QM / Core i7-2760QM / Core i7-2860QM / Core i7-2820QM</cpu>
+        <gfx>AMD Radeon HD 6750M / AMD Radeon HD 6770M</gfx>
+        <ram>1333 MHz DDR3 SDRAM</ram>
+    </specs>
+</mac>
+<mac model="macbookpro91">
+    <BiosReleaseDate>06/26/2017</BiosReleaseDate>
+    <BiosVendor>Apple Inc.</BiosVendor>
+    <BiosVersion>MBP91.88Z.00D4.B01.1706261216</BiosVersion>
+    <BoardID>Mac-4B7AC7E43945597E</BoardID>
+    <BoardManufacturer>Apple Inc.</BoardManufacturer>
+    <BoardVersion>MacBookPro9,1</BoardVersion>
+    <BoardType>10</BoardType>
+    <ChassisManufacturer>Apple Inc.</ChassisManufacturer>
+    <ChassisType>0A</ChassisType>
+    <ChassisAsset>MacBook-Aluminum</ChassisAsset>
+    <LocationInChassis>Part Component</LocationInChassis>
+    <Family>MacBook Pro</Family>
+    <FirmwareVendor>Apple Inc.</FirmwareVendor>
+    <Manufacturer>Apple Inc.</Manufacturer>
+    <Mobile>true</Mobile>
+    <ProductName>MacBookPro9,1</ProductName>
+    <SmcRevision>2.1f175</SmcRevision>
+    <Version>1.0</Version>
+
+    <PrettyName>MacBook Pro 9,1 - Core i7 Ivy Bridge</PrettyName>
+    <Year>2012,2013</Year>
+    <ModelId>F1G4</ModelId>
+
+    <specs>
+        <cpu>Core i7-3720QM / Core i7-3820QM / Core i7-3615QM / Core i7-2820QM</cpu>
+        <gfx>NVIDIA GeForce GT 650M</gfx>
+        <ram>1600 MHz DDR3L SDRAM</ram>
+    </specs>
+</mac>
+<mac model="macbookpro92">
+    <BiosReleaseDate>06/26/2017</BiosReleaseDate>
+    <BiosVendor>Apple Inc.</BiosVendor>
+    <BiosVersion>MBP91.88Z.00D4.B01.1706261216</BiosVersion>
+    <BoardID>Mac-6F01561E16C75D06</BoardID>
+    <BoardManufacturer>Apple Inc.</BoardManufacturer>
+    <BoardVersion>MacBookPro9,2</BoardVersion>
+    <BoardType>10</BoardType>
+    <ChassisManufacturer>Apple Inc.</ChassisManufacturer>
+    <ChassisType>0A</ChassisType>
+    <ChassisAsset>MacBook-Aluminum</ChassisAsset>
+    <LocationInChassis>Part Component</LocationInChassis>
+    <Family>MacBook Pro</Family>
+    <FirmwareVendor>Apple Inc.</FirmwareVendor>
+    <Manufacturer>Apple Inc.</Manufacturer>
+    <Mobile>true</Mobile>
+    <ProductName>MacBookPro9,2</ProductName>
+    <SmcRevision>2.2f44</SmcRevision>
+    <Version>1.0</Version>
+
+    <PrettyName>MacBook Pro 9,2 - Core i5/i7 Ivy Bridge</PrettyName>
+    <Year>2012,2013</Year>
+    <ModelId>DTY3</ModelId>
+
+    <specs>
+        <cpu>Core i5-3210M / Core i7-3520M</cpu>
+        <gfx>Intel HD Graphics 4000</gfx>
+        <ram>1600 MHz DDR3L SDRAM</ram>
+    </specs>
+</mac>
+<mac model="macbookpro101">
+    <BiosReleaseDate>06/26/2017</BiosReleaseDate>
+    <BiosVendor>Apple Inc.</BiosVendor>
+    <BiosVersion>MBP101.88Z.00EF.B01.1706261418</BiosVersion>
+    <BoardID>Mac-C3EC7CD22292981F</BoardID>
+    <BoardManufacturer>Apple Inc.</BoardManufacturer>
+    <BoardVersion>MacBookPro10,1</BoardVersion>
+    <BoardType>10</BoardType>
+    <ChassisManufacturer>Apple Inc.</ChassisManufacturer>
+    <ChassisType>0A</ChassisType>
+    <ChassisAsset>MacBook-Aluminum</ChassisAsset>
+    <LocationInChassis>Part Component</LocationInChassis>
+    <Family>MacBook Pro</Family>
+    <FirmwareVendor>Apple Inc.</FirmwareVendor>
+    <Manufacturer>Apple Inc.</Manufacturer>
+    <Mobile>true</Mobile>
+    <ProductName>MacBookPro10,1</ProductName>
+    <SmcRevision>2.3f36</SmcRevision>
+    <Version>1.0</Version>
+
+    <PrettyName>MacBook Pro 10,1 - Core i7 Ivy Bridge</PrettyName>
+    <Year>2012,2013</Year>
+    <ModelId>DKQ1</ModelId>
+
+    <specs>
+        <cpu>Core: i7-3615QM / i7-3740QM / i7-3635QM / i7-3840QM / i7-3720QM / i7-3820QM</cpu>
+        <gfx>NVIDIA GeForce GT 650M</gfx>
+        <ram>1600 MHz DDR3L SDRAM</ram>
+    </specs>
+</mac>
+<mac model="macbookpro102">
+    <BiosReleaseDate>06/26/2017</BiosReleaseDate>
+    <BiosVendor>Apple Inc.</BiosVendor>
+    <BiosVersion>MBP102.88Z.0107.B01.1706261827</BiosVersion>
+    <BoardID>Mac-AFD8A9D944EA4843</BoardID>
+    <BoardManufacturer>Apple Inc.</BoardManufacturer>
+    <BoardVersion>MacBookPro10,2</BoardVersion>
+    <BoardType>10</BoardType>
+    <ChassisManufacturer>Apple Inc.</ChassisManufacturer>
+    <ChassisType>0A</ChassisType>
+    <ChassisAsset>MacBook-Aluminum</ChassisAsset>
+    <LocationInChassis>Part Component</LocationInChassis>
+    <Family>MacBook Pro</Family>
+    <FirmwareVendor>Apple Inc.</FirmwareVendor>
+    <Manufacturer>Apple Inc.</Manufacturer>
+    <Mobile>true</Mobile>
+    <ProductName>MacBookPro10,2</ProductName>
+    <SmcRevision>2.6f59</SmcRevision>
+    <Version>1.0</Version>
+
+    <PrettyName>MacBook Pro 10,2 - Core i5/i7 Ivy Bridge</PrettyName>
+    <Year>2012,2013</Year>
+    <ModelId>G4N7</ModelId>
+
+    <specs>
+        <cpu>Core: i5-3210M / i5-3230M / i7-3520M / i7-3540M</cpu>
+        <gfx>Intel HD Graphics 4000</gfx>
+        <ram>1600 MHz DDR3L SDRAM</ram>
+    </specs>
+</mac>
+<mac model="macbookpro111">
+    <BiosReleaseDate>06/26/2017</BiosReleaseDate>
+    <BiosVendor>Apple Inc.</BiosVendor>
+    <BiosVersion>MBP111.88Z.0139.B01.1706261010</BiosVersion>
+    <BoardID>Mac-189A3D4F975D5FFC</BoardID>
+    <BoardManufacturer>Apple Inc.</BoardManufacturer>
+    <BoardVersion>MacBookPro11,1</BoardVersion>
+    <BoardType>10</BoardType>
+    <ChassisManufacturer>Apple Inc.</ChassisManufacturer>
+    <ChassisType>0A</ChassisType>
+    <ChassisAsset>MacBook-Aluminum</ChassisAsset>
+    <LocationInChassis>Part Component</LocationInChassis>
+    <Family>MacBook Pro</Family>
+    <FirmwareVendor>Apple Inc.</FirmwareVendor>
+    <Manufacturer>Apple Inc.</Manufacturer>
+    <Mobile>true</Mobile>
+    <ProductName>MacBookPro11,1</ProductName>
+    <SmcRevision>2.16f68</SmcRevision>
+    <Version>1.0</Version>
+
+    <PrettyName>MacBook Pro 11,1 - Core i5/i7 Haswell</PrettyName>
+    <Year>2013</Year>
+    <ModelId>FH00</ModelId>
+
+    <specs>
+        <cpu>Core: i5-4288U / i5-4308U / i5-4258U / i5-4278U / i7-4578U / i7-4558U</cpu>
+        <gfx>Intel Iris 5100 graphics</gfx>
+        <ram>1600 MHz DDR3L SDRAM</ram>
+    </specs>
+</mac>
+<mac model="macbookpro112">
+    <BiosReleaseDate>06/26/2017</BiosReleaseDate>
+    <BiosVendor>Apple Inc.</BiosVendor>
+    <BiosVersion>MBP112.88Z.0139.B01.1706261355</BiosVersion>
+    <BoardID>Mac-3CBD00234E554E41</BoardID>
+    <BoardManufacturer>Apple Inc.</BoardManufacturer>
+    <BoardVersion>MacBookPro11,2</BoardVersion>
+    <BoardType>10</BoardType>
+    <ChassisManufacturer>Apple Inc.</ChassisManufacturer>
+    <ChassisType>0A</ChassisType>
+    <ChassisAsset>MacBook-Aluminum</ChassisAsset>
+    <LocationInChassis>Part Component</LocationInChassis>
+    <Family>MacBook Pro</Family>
+    <FirmwareVendor>Apple Inc.</FirmwareVendor>
+    <Manufacturer>Apple Inc.</Manufacturer>
+    <Mobile>true</Mobile>
+    <ProductName>MacBookPro11,2</ProductName>
+    <SmcRevision>2.18f15</SmcRevision>
+    <Version>1.0</Version>
+
+    <PrettyName>MacBook Pro 11,2 - Core i7 Haswell</PrettyName>
+    <Year>2013,2014</Year>
+    <ModelId>G86R</ModelId>
+
+    <specs>
+        <cpu>Core: i7-4850HQ / i7-4870HQ / i7-4960HQ / i7-4750HQ / i7-4770HQ / i7-4980HQ</cpu>
+        <gfx>Intel Iris 5200 Pro graphics</gfx>
+        <ram>1600 MHz DDR3L SDRAM</ram>
+    </specs>
+</mac>
+<mac model="macbookpro113">
+    <BiosReleaseDate>06/26/2017</BiosReleaseDate>
+    <BiosVendor>Apple Inc.</BiosVendor>
+    <BiosVersion>MBP112.88Z.0139.B01.1706261355</BiosVersion>
+    <BoardID>Mac-2BD1B31983FE1663</BoardID>
+    <BoardManufacturer>Apple Inc.</BoardManufacturer>
+    <BoardVersion>MacBookPro11,3</BoardVersion>
+    <BoardType>10</BoardType>
+    <ChassisManufacturer>Apple Inc.</ChassisManufacturer>
+    <ChassisType>0A</ChassisType>
+    <ChassisAsset>MacBook-Aluminum</ChassisAsset>
+    <LocationInChassis>Part Component</LocationInChassis>
+    <Family>MacBook Pro</Family>
+    <FirmwareVendor>Apple Inc.</FirmwareVendor>
+    <Manufacturer>Apple Inc.</Manufacturer>
+    <Mobile>true</Mobile>
+    <ProductName>MacBookPro11,3</ProductName>
+    <SmcRevision>2.19f12</SmcRevision>
+    <Version>1.0</Version>
+
+    <PrettyName>MacBook Pro 11,3 - Core i7 Haswell</PrettyName>
+    <Year>2013,2014</Year>
+    <ModelId>FR1M</ModelId>
+
+    <specs>
+        <cpu>Core: i7-4850HQ / i7-4960HQ / i7-4870HQ / i7-4980HQ</cpu>
+        <gfx>Intel Iris 5200 Pro graphics / NVIDIA GeForce GT 750M</gfx>
+        <ram>1600 MHz DDR3L SDRAM</ram>
+    </specs>
+</mac>
+<mac model="macbookpro114">
+    <BiosReleaseDate>06/26/2017</BiosReleaseDate>
+    <BiosVendor>Apple Inc.</BiosVendor>
+    <BiosVersion>MBP114.88Z.0173.B01.1706261516</BiosVersion>
+    <BoardID>Mac-06F11FD93F0323C5</BoardID>
+    <BoardManufacturer>Apple Inc.</BoardManufacturer>
+    <BoardVersion>MacBookPro11,4</BoardVersion>
+    <BoardType>10</BoardType>
+    <ChassisManufacturer>Apple Inc.</ChassisManufacturer>
+    <ChassisType>0A</ChassisType>
+    <ChassisAsset>MacBook-Aluminum</ChassisAsset>
+    <LocationInChassis>Part Component</LocationInChassis>
+    <Family>MacBook Pro</Family>
+    <FirmwareVendor>Apple Inc.</FirmwareVendor>
+    <Manufacturer>Apple Inc.</Manufacturer>
+    <Mobile>true</Mobile>
+    <ProductName>MacBookPro11,4</ProductName>
+    <SmcRevision>2.29f23</SmcRevision>
+    <Version>1.0</Version>
+
+    <PrettyName>MacBook Pro 11,4 - Core i7 Haswell</PrettyName>
+    <Year>2015</Year>
+    <ModelId>G8WN</ModelId>
+
+    <specs>
+        <cpu>Core: i7-4770HQ / i7-4870HQ / i7-4980HQ</cpu>
+        <gfx>Intel Iris 5200 Pro graphics</gfx>
+        <ram>1600 MHz DDR3L SDRAM</ram>
+    </specs>
+</mac>
+<mac model="macbookpro115">
+    <BiosReleaseDate>06/26/2017</BiosReleaseDate>
+    <BiosVendor>Apple Inc.</BiosVendor>
+    <BiosVersion>MBP114.88Z.0173.B01.1706261516</BiosVersion>
+    <BoardID>Mac-06F11F11946D27C5</BoardID>
+    <BoardManufacturer>Apple Inc.</BoardManufacturer>
+    <BoardVersion>MacBookPro11,5</BoardVersion>
+    <BoardType>10</BoardType>
+    <ChassisManufacturer>Apple Inc.</ChassisManufacturer>
+    <ChassisType>0A</ChassisType>
+    <ChassisAsset>MacBook-Aluminum</ChassisAsset>
+    <LocationInChassis>Part Component</LocationInChassis>
+    <Family>MacBook Pro</Family>
+    <FirmwareVendor>Apple Inc.</FirmwareVendor>
+    <Manufacturer>Apple Inc.</Manufacturer>
+    <Mobile>true</Mobile>
+    <ProductName>MacBookPro11,5</ProductName>
+    <SmcRevision>2.30f2</SmcRevision>
+    <Version>1.0</Version>
+
+    <PrettyName>MacBook Pro 11,5 - Core i7 Haswell</PrettyName>
+    <Year>2015</Year>
+    <ModelId>G85Y</ModelId>
+
+    <specs>
+        <cpu>Core i7-4980HQ / Core i7-4870HQ</cpu>
+        <gfx>AMD Radeon R9 M370X</gfx>
+        <ram>1600 MHz DDR3L SDRAM</ram>
+    </specs>
+</mac>
+<mac model="macbookpro121">
+    <BiosReleaseDate>06/26/2017</BiosReleaseDate>
+    <BiosVendor>Apple Inc.</BiosVendor>
+    <BiosVersion>MBP121.88Z.0168.B01.1706261516</BiosVersion>
+    <BoardID>Mac-E43C1C25D4880AD6</BoardID>
+    <BoardManufacturer>Apple Inc.</BoardManufacturer>
+    <BoardVersion>MacBookPro12,1</BoardVersion>
+    <BoardType>10</BoardType>
+    <ChassisManufacturer>Apple Inc.</ChassisManufacturer>
+    <ChassisType>09</ChassisType>
+    <ChassisAsset>MacBook-Aluminum</ChassisAsset>
+    <LocationInChassis/>
+    <Family>MacBook Pro</Family>
+    <FirmwareVendor>Apple Inc.</FirmwareVendor>
+    <Manufacturer>Apple Inc.</Manufacturer>
+    <Mobile>true</Mobile>
+    <ProductName>MacBookPro12,1</ProductName>
+    <SmcRevision>2.28f7</SmcRevision>
+    <Version>1.0</Version>
+
+    <PrettyName>MacBook Pro 12,1 - Core i5/i7 Broadwell</PrettyName>
+    <Year>2015</Year>
+    <ModelId>H1DP</ModelId>
+
+    <specs>
+        <cpu>Core i5-5287U / Core i5-5257U / Core i7-5557U</cpu>
+        <gfx>Intel Iris Graphics 6100</gfx>
+        <ram>1866 MHz LPDDR3 SDRAM</ram>
+    </specs>
+</mac>
+<mac model="macbookpro131">
+    <BiosReleaseDate>06/26/2017</BiosReleaseDate>
+    <BiosVendor>Apple Inc.</BiosVendor>
+    <BiosVersion>MBP131.88Z.0206.B01.1706260154</BiosVersion>
+    <BoardID>Mac-473D31EABEB93F9B</BoardID>
+    <BoardManufacturer>Apple Inc.</BoardManufacturer>
+    <BoardVersion>MacBookPro13,1</BoardVersion>
+    <BoardType>10</BoardType>
+    <ChassisManufacturer>Apple Inc.</ChassisManufacturer>
+    <ChassisType>09</ChassisType>
+    <ChassisAsset>MacBook-Aluminum</ChassisAsset>
+    <LocationInChassis/>
+    <Family>MacBook Pro</Family>
+    <FirmwareVendor>Apple Inc.</FirmwareVendor>
+    <Manufacturer>Apple Inc.</Manufacturer>
+    <Mobile>true</Mobile>
+    <ProductName>MacBookPro13,1</ProductName>
+    <SmcRevision>2.36f97</SmcRevision>
+    <Version>1.0</Version>
+
+    <PrettyName>MacBook Pro 13,1 - Core i5/i7 Skylake</PrettyName>
+    <Year>2016</Year>
+    <ModelId>GVC1</ModelId>
+
+    <specs>
+        <cpu>Core i5-6360U / Core i7-6660U</cpu>
+        <gfx>Intel Iris Graphics 540</gfx>
+        <ram>1866 MHz LPDDR3 SDRAM</ram>
+    </specs>
+</mac>
+<mac model="macbookpro132">
+    <BiosReleaseDate>06/26/2017</BiosReleaseDate>
+    <BiosVendor>Apple Inc.</BiosVendor>
+    <BiosVersion>MBP132.88Z.0227.B01.1706260154</BiosVersion>
+    <BoardID>Mac-66E35819EE2D0D05</BoardID>
+    <BoardManufacturer>Apple Inc.</BoardManufacturer>
+    <BoardVersion>MacBookPro13,2</BoardVersion>
+    <BoardType>10</BoardType>
+    <ChassisManufacturer>Apple Inc.</ChassisManufacturer>
+    <ChassisType>09</ChassisType>
+    <ChassisAsset>MacBook-Aluminum</ChassisAsset>
+    <LocationInChassis/>
+    <Family>MacBook Pro</Family>
+    <FirmwareVendor>Apple Inc.</FirmwareVendor>
+    <Manufacturer>Apple Inc.</Manufacturer>
+    <Mobile>true</Mobile>
+    <ProductName>MacBookPro13,2</ProductName>
+    <SmcRevision>2.37f20</SmcRevision>
+    <Version>1.0</Version>
+
+    <PrettyName>MacBook Pro 13,2 - Core i5/i7 Skylake</PrettyName>
+    <Year>2016</Year>
+    <ModelId>GYFH</ModelId>
+
+    <specs>
+        <cpu>Core i5-6267U / Core i5-6287U / Core i7-6567U</cpu>
+        <gfx>Intel Iris Graphics 550</gfx>
+        <ram>2133 MHz LPDDR3 SDRAM</ram>
+    </specs>
+</mac>
+<mac model="macbookpro133">
+    <BiosReleaseDate>06/26/2017</BiosReleaseDate>
+    <BiosVendor>Apple Inc.</BiosVendor>
+    <BiosVersion>MBP133.88Z.0227.B01.1706260154</BiosVersion>
+    <BoardID>Mac-A5C67F76ED83108C</BoardID>
+    <BoardManufacturer>Apple Inc.</BoardManufacturer>
+    <BoardVersion>MacBookPro13,3</BoardVersion>
+    <BoardType>10</BoardType>
+    <ChassisManufacturer>Apple Inc.</ChassisManufacturer>
+    <ChassisType>09</ChassisType>
+    <ChassisAsset>MacBook-Aluminum</ChassisAsset>
+    <LocationInChassis/>
+    <Family>MacBook Pro</Family>
+    <FirmwareVendor>Apple Inc.</FirmwareVendor>
+    <Manufacturer>Apple Inc.</Manufacturer>
+    <Mobile>true</Mobile>
+    <ProductName>MacBookPro13,3</ProductName>
+    <SmcRevision>2.38f7</SmcRevision>
+    <Version>1.0</Version>
+
+    <PrettyName>MacBook Pro 13,3 - Core i7 Skylake</PrettyName>
+    <Year>2016</Year>
+    <ModelId>GTFN</ModelId>
+
+    <specs>
+        <cpu>Core i7-6700HQ / Core i7-6820HQ / Core i7-6920HQ</cpu>
+        <gfx>AMD Radeon Pro 450 / AMD Radeon Pro 455 / AMD Radeon Pro 460</gfx>
+        <ram>2133 MHz LPDDR3 SDRAM</ram>
+    </specs>
+</mac>
+<mac model="macbookpro141">
+    <BiosReleaseDate>06/25/2017</BiosReleaseDate>
+    <BiosVendor>Apple Inc.</BiosVendor>
+    <BiosVersion>MBP141.88Z.0161.B01.1706251744</BiosVersion>
+    <BoardID>Mac-B4831CEBD52A0C4C</BoardID>
+    <BoardManufacturer>Apple Inc.</BoardManufacturer>
+    <BoardVersion>MacBookPro14,1</BoardVersion>
+    <BoardType>10</BoardType>
+    <ChassisManufacturer>Apple Inc.</ChassisManufacturer>
+    <ChassisType>09</ChassisType>
+    <ChassisAsset>MacBook-Aluminum</ChassisAsset>
+    <LocationInChassis/>
+    <Family>MacBook Pro</Family>
+    <FirmwareVendor>Apple Inc.</FirmwareVendor>
+    <Manufacturer>Apple Inc.</Manufacturer>
+    <Mobile>true</Mobile>
+    <ProductName>MacBookPro14,1</ProductName>
+    <SmcRevision>2.43f6</SmcRevision>
+    <Version>1.0</Version>
+
+    <PrettyName>MacBook Pro 14,1 - Core i5/i7 Kaby Lake</PrettyName>
+    <Year>2017</Year>
+    <ModelId>HV29</ModelId>
+
+    <specs>
+        <cpu>Core i5-7360U / Core i7-7660U</cpu>
+        <gfx>Intel Iris Plus Graphics 640</gfx>
+        <ram>2133 MHz LPDDR3 SDRAM</ram>
+    </specs>
+</mac>
+<mac model="macbookpro142">
+    <BiosReleaseDate>06/25/2017</BiosReleaseDate>
+    <BiosVendor>Apple Inc.</BiosVendor>
+    <BiosVersion>MBP142.88Z.0161.B01.1706251744</BiosVersion>
+    <BoardID>Mac-CAD6701F7CEA0921</BoardID>
+    <BoardManufacturer>Apple Inc.</BoardManufacturer>
+    <BoardVersion>MacBookPro14,2</BoardVersion>
+    <BoardType>10</BoardType>
+    <ChassisManufacturer>Apple Inc.</ChassisManufacturer>
+    <ChassisType>09</ChassisType>
+    <ChassisAsset>MacBook-Aluminum</ChassisAsset>
+    <LocationInChassis/>
+    <Family>MacBook Pro</Family>
+    <FirmwareVendor>Apple Inc.</FirmwareVendor>
+    <Manufacturer>Apple Inc.</Manufacturer>
+    <Mobile>true</Mobile>
+    <ProductName>MacBookPro14,2</ProductName>
+    <SmcRevision>2.44f1</SmcRevision>
+    <Version>1.0</Version>
+
+    <PrettyName>MacBook Pro 14,2 - Core i5/i7 Kaby Lake</PrettyName>
+    <Year>2017</Year>
+    <ModelId>HV2N</ModelId>
+
+    <specs>
+        <cpu>Core i5-7267U / Core i5-7287U / Core i7-7567U</cpu>
+        <gfx>Iris Plus Graphics 650</gfx>
+        <ram>2133 MHz LPDDR3 SDRAM</ram>
+    </specs>
+</mac>
+<mac model="macbookpro143">
+    <BiosReleaseDate>06/25/2017</BiosReleaseDate>
+    <BiosVendor>Apple Inc.</BiosVendor>
+    <BiosVersion>MBP143.88Z.0161.B01.1706252330</BiosVersion>
+    <BoardID>Mac-551B86E5744E2388</BoardID>
+    <BoardManufacturer>Apple Inc.</BoardManufacturer>
+    <BoardVersion>MacBookPro14,3</BoardVersion>
+    <BoardType>10</BoardType>
+    <ChassisManufacturer>Apple Inc.</ChassisManufacturer>
+    <ChassisType>09</ChassisType>
+    <ChassisAsset>MacBook-Aluminum</ChassisAsset>
+    <LocationInChassis/>
+    <Family>MacBook Pro</Family>
+    <FirmwareVendor>Apple Inc.</FirmwareVendor>
+    <Manufacturer>Apple Inc.</Manufacturer>
+    <Mobile>true</Mobile>
+    <ProductName>MacBookPro14,3</ProductName>
+    <SmcRevision>2.45f0</SmcRevision>
+    <Version>1.0</Version>
+
+    <PrettyName>MacBook Pro 14,3 - Core i7 Kaby Lake</PrettyName>
+    <Year>2017</Year>
+    <ModelId>HTD5</ModelId>
+
+    <specs>
+        <cpu>Core i7-7700HQ / Core i7-7820HQ / Core i7-7920HQ</cpu>
+        <gfx>AMD Radeon Pro 555 / AMD Radeon Pro 560</gfx>
+        <ram>2133 MHz LPDDR3 SDRAM</ram>
+    </specs>
+</mac>
+<mac model="macbook11">
+    <BiosReleaseDate>10/12/06</BiosReleaseDate>
+    <BiosVendor>Apple Inc.</BiosVendor>
+    <BiosVersion>MB11.88Z.0061.B03.0610121324</BiosVersion>
+    <BoardID>Mac-F4208CC8</BoardID>
+    <BoardManufacturer>Apple Inc.</BoardManufacturer>
+    <BoardVersion>MacBook1,1</BoardVersion>
+    <BoardType>10</BoardType>
+    <ChassisManufacturer>Apple Inc.</ChassisManufacturer>
+    <ChassisType>0A</ChassisType>
+    <ChassisAsset>MacBook-White</ChassisAsset>
+    <LocationInChassis>Part Component</LocationInChassis>
+    <Family>MacBook</Family>
+    <FirmwareVendor>Apple Inc.</FirmwareVendor>
+    <Manufacturer>Apple Inc.</Manufacturer>
+    <Mobile>true</Mobile>
+    <ProductName>MacBook1,1</ProductName>
+    <SmcRevision>1.4f12</SmcRevision>
+    <Version>1.1</Version>
+
+    <PrettyName>MacBook 1,1 - Core Duo Yonah</PrettyName>
+    <Year>2006</Year>
+    <ModelId>U9B</ModelId>
+
+    <specs>
+        <cpu>Core Duo T2400 / Core Duo T2500</cpu>
+        <gfx>Intel GMA 950 Graphics</gfx>
+        <ram>667 MHz DDR2 SDRAM</ram>
+    </specs>
+</mac>
+<mac model="macbook21">
+    <BiosReleaseDate>06/27/07</BiosReleaseDate>
+    <BiosVendor>Apple Inc.</BiosVendor>
+    <BiosVersion>MB21.88Z.00A5.B07.0706270922</BiosVersion>
+    <BoardID>Mac-F4208CA9</BoardID>
+    <BoardManufacturer>Apple Inc.</BoardManufacturer>
+    <BoardVersion>MacBook2,1</BoardVersion>
+    <BoardType>10</BoardType>
+    <ChassisManufacturer>Apple Inc.</ChassisManufacturer>
+    <ChassisType>0A</ChassisType>
+    <ChassisAsset>MacBook-White</ChassisAsset>
+    <LocationInChassis>Part Component</LocationInChassis>
+    <Family>MacBook</Family>
+    <FirmwareVendor>Apple Inc.</FirmwareVendor>
+    <Manufacturer>Apple Inc.</Manufacturer>
+    <Mobile>true</Mobile>
+    <ProductName>MacBook2,1</ProductName>
+    <SmcRevision>1.13f3</SmcRevision>
+    <Version>1.2</Version>
+
+    <PrettyName>MacBook 2,1 - Core 2 Duo Merom</PrettyName>
+    <Year>2006,2007</Year>
+    <ModelId>WGP</ModelId>
+
+    <specs>
+        <cpu>Core 2 Duo T7200 / Core 2 Duo T5600 / Core 2 Duo T7400</cpu>
+        <gfx>Intel GMA 950 Graphics</gfx>
+        <ram>667 MHz DDR2 SDRAM</ram>
+    </specs>
+</mac>
+<mac model="macbook31">
+    <BiosReleaseDate>03/05/08</BiosReleaseDate>
+    <BiosVendor>Apple Inc.</BiosVendor>
+    <BiosVersion>MB31.88Z.008E.B02.0803051832</BiosVersion>
+    <BoardID>Mac-F22788C8</BoardID>
+    <BoardManufacturer>Apple Inc.</BoardManufacturer>
+    <BoardVersion>MacBook3,1</BoardVersion>
+    <BoardType>10</BoardType>
+    <ChassisManufacturer>Apple Inc.</ChassisManufacturer>
+    <ChassisType>0A</ChassisType>
+    <ChassisAsset>MacBook-White</ChassisAsset>
+    <LocationInChassis>Part Component</LocationInChassis>
+    <Family>MacBook</Family>
+    <FirmwareVendor>Apple Inc.</FirmwareVendor>
+    <Manufacturer>Apple Inc.</Manufacturer>
+    <Mobile>true</Mobile>
+    <ProductName>MacBook3,1</ProductName>
+    <SmcRevision>1.24f3</SmcRevision>
+    <Version>1.3</Version>
+
+    <PrettyName>MacBook 3,1 - Core 2 Duo Merom</PrettyName>
+    <Year>2007,2008</Year>
+    <ModelId>Y51</ModelId>
+
+    <specs>
+        <cpu>Core 2 Duo T7500 / Core 2 Duo T7300</cpu>
+        <gfx>Intel GMA X3100 Graphics</gfx>
+        <ram>667 MHz DDR2 SDRAM</ram>
+    </specs>
+</mac>
+<mac model="macbook41">
+    <BiosReleaseDate>02/09/08</BiosReleaseDate>
+    <BiosVendor>Apple Inc.</BiosVendor>
+    <BiosVersion>MB41.88Z.00C1.B00.0802091535</BiosVersion>
+    <BoardID>Mac-F22788A9</BoardID>
+    <BoardManufacturer>Apple Inc.</BoardManufacturer>
+    <BoardVersion>MacBook4,1</BoardVersion>
+    <BoardType>10</BoardType>
+    <ChassisManufacturer>Apple Inc.</ChassisManufacturer>
+    <ChassisType>0A</ChassisType>
+    <ChassisAsset>MacBook-Black</ChassisAsset>
+    <LocationInChassis>Part Component</LocationInChassis>
+    <Family>MacBook</Family>
+    <FirmwareVendor>Apple Inc.</FirmwareVendor>
+    <Manufacturer>Apple Inc.</Manufacturer>
+    <Mobile>true</Mobile>
+    <ProductName>MacBook4,1</ProductName>
+    <SmcRevision>1.31f1</SmcRevision>
+    <Version>1.3</Version>
+
+    <PrettyName>MacBook 4,1 - Core 2 Duo Penryn</PrettyName>
+    <Year>2008</Year>
+    <ModelId>0P0</ModelId>
+
+    <specs>
+        <cpu>Core 2 Duo T8300 / Core 2 Duo T8100</cpu>
+        <gfx>Intel GMA X3100 Graphics</gfx>
+        <ram>667 MHz DDR2 SDRAM</ram>
+    </specs>
+</mac>
+<mac model="macbook51">
+    <BiosReleaseDate>04/27/09</BiosReleaseDate>
+    <BiosVendor>Apple Inc.</BiosVendor>
+    <BiosVersion>MB51.88Z.007D.B03.0904271443</BiosVersion>
+    <BoardID>Mac-F42D89C8</BoardID>
+    <BoardManufacturer>Apple Inc.</BoardManufacturer>
+    <BoardVersion>MacBook5,1</BoardVersion>
+    <BoardType>10</BoardType>
+    <ChassisManufacturer>Apple Inc.</ChassisManufacturer>
+    <ChassisType>0A</ChassisType>
+    <ChassisAsset>MacBook-Black</ChassisAsset>
+    <LocationInChassis>Part Component</LocationInChassis>
+    <Family>MacBook</Family>
+    <FirmwareVendor>Apple Inc.</FirmwareVendor>
+    <Manufacturer>Apple Inc.</Manufacturer>
+    <Mobile>true</Mobile>
+    <ProductName>MacBook5,1</ProductName>
+    <SmcRevision>1.32f8</SmcRevision>
+    <Version>1.3</Version>
+
+    <PrettyName>MacBook 5,1 - Core 2 Duo Penryn</PrettyName>
+    <Year>2008,2009</Year>
+    <ModelId>1AQ</ModelId>
+
+    <specs>
+        <cpu>Core 2 Duo P8600 / Core 2 Duo P7350</cpu>
+        <gfx>NVIDIA GeForce 9400M</gfx>
+        <ram>1066 MHz DDR3 SDRAM</ram>
+    </specs>
+</mac>
+<mac model="macbook52">
+    <BiosReleaseDate>04/16/09</BiosReleaseDate>
+    <BiosVendor>Apple Inc.</BiosVendor>
+    <BiosVersion>MB52.88Z.0088.B05.0904162222</BiosVersion>
+    <BoardID>Mac-F22788AA</BoardID>
+    <BoardManufacturer>Apple Inc.</BoardManufacturer>
+    <BoardVersion>MacBook5,2</BoardVersion>
+    <BoardType>10</BoardType>
+    <ChassisManufacturer>Apple Inc.</ChassisManufacturer>
+    <ChassisType>0A</ChassisType>
+    <ChassisAsset>MacBook-Black</ChassisAsset>
+    <LocationInChassis>Part Component</LocationInChassis>
+    <Family>MacBook</Family>
+    <FirmwareVendor>Apple Inc.</FirmwareVendor>
+    <Manufacturer>Apple Inc.</Manufacturer>
+    <Mobile>true</Mobile>
+    <ProductName>MacBook5,2</ProductName>
+    <SmcRevision>1.38f5</SmcRevision>
+    <Version>1.3</Version>
+
+    <PrettyName>MacBook 5,2 - Core 2 Duo Penryn</PrettyName>
+    <Year>2009,2010</Year>
+    <ModelId>9GU</ModelId>
+
+    <specs>
+        <cpu>Core 2 Duo P7450 / Core 2 Duo P7350</cpu>
+        <gfx>NVIDIA GeForce 9400M</gfx>
+        <ram>800 MHz DDR2 SDRAM</ram>
+    </specs>
+</mac>
+<mac model="macbook61">
+    <BiosReleaseDate>06/26/17</BiosReleaseDate>
+    <BiosVendor>Apple Inc.</BiosVendor>
+    <BiosVersion>MB61.88Z.00C9.B01.1706261518</BiosVersion>
+    <BoardID>Mac-F22C8AC8</BoardID>
+    <BoardManufacturer>Apple Inc.</BoardManufacturer>
+    <BoardVersion>MacBook6,1</BoardVersion>
+    <BoardType>10</BoardType>
+    <ChassisManufacturer>Apple Inc.</ChassisManufacturer>
+    <ChassisType>0A</ChassisType>
+    <ChassisAsset>MacBook-White</ChassisAsset>
+    <LocationInChassis>Part Component</LocationInChassis>
+    <Family>MacBook</Family>
+    <FirmwareVendor>Apple Inc.</FirmwareVendor>
+    <Manufacturer>Apple Inc.</Manufacturer>
+    <Mobile>true</Mobile>
+    <ProductName>MacBook6,1</ProductName>
+    <SmcRevision>1.51f53</SmcRevision>
+    <Version>1.0</Version>
+
+    <PrettyName>MacBook 6,1 - Core 2 Duo Penryn</PrettyName>
+    <Year>2008,2009</Year>
+    <ModelId>GAY</ModelId>
+
+    <specs>
+        <cpu>Core 2 Duo P7550</cpu>
+        <gfx>NVIDIA GeForce 9400M</gfx>
+        <ram>1066 MHz DDR3 SDRAM</ram>
+    </specs>
+</mac>
+<mac model="macbook71">
+    <BiosReleaseDate>06/26/17</BiosReleaseDate>
+    <BiosVendor>Apple Inc.</BiosVendor>
+    <BiosVersion>MB71.88Z.003A.B01.1706261443</BiosVersion>
+    <BoardID>Mac-F22C89C8</BoardID>
+    <BoardManufacturer>Apple Inc.</BoardManufacturer>
+    <BoardVersion>MacBook7,1</BoardVersion>
+    <BoardType>10</BoardType>
+    <ChassisManufacturer>Apple Inc.</ChassisManufacturer>
+    <ChassisType>0A</ChassisType>
+    <ChassisAsset>MacBook-White</ChassisAsset>
+    <LocationInChassis>Part Component</LocationInChassis>
+    <Family>MacBook</Family>
+    <FirmwareVendor>Apple Inc.</FirmwareVendor>
+    <Manufacturer>Apple Inc.</Manufacturer>
+    <Mobile>true</Mobile>
+    <ProductName>MacBook7,1</ProductName>
+    <SmcRevision>1.60f6</SmcRevision>
+    <Version>1.0</Version>
+
+    <PrettyName>MacBook 7,1 - Core 2 Duo Penryn</PrettyName>
+    <Year>2010</Year>
+    <ModelId>F5X</ModelId>
+
+    <specs>
+        <cpu>Core 2 Duo P8600</cpu>
+        <gfx>NVIDIA GeForce 320M</gfx>
+        <ram>1066 MHz DDR3 SDRAM</ram>
+    </specs>
+</mac>
+<mac model="macbook81">
+    <BiosReleaseDate>06/26/2017</BiosReleaseDate>
+    <BiosVendor>Apple Inc.</BiosVendor>
+    <BiosVersion>MB81.88Z.0165.B01.1706261516</BiosVersion>
+    <BoardID>Mac-BE0E8AC46FE800CC</BoardID>
+    <BoardManufacturer>Apple Inc.</BoardManufacturer>
+    <BoardVersion>MacBook8,1</BoardVersion>
+    <BoardType>10</BoardType>
+    <ChassisManufacturer>Apple Inc.</ChassisManufacturer>
+    <ChassisType>09</ChassisType>
+    <ChassisAsset>MacBook-Aluminum</ChassisAsset>
+    <LocationInChassis>Part Component</LocationInChassis>
+    <Family>MacBook</Family>
+    <FirmwareVendor>Apple Inc.</FirmwareVendor>
+    <Manufacturer>Apple Inc.</Manufacturer>
+    <Mobile>true</Mobile>
+    <ProductName>MacBook8,1</ProductName>
+    <SmcRevision>2.25f87</SmcRevision>
+    <Version>1.0</Version>
+
+    <PrettyName>MacBook 8,1 - Core M Broadwell-Y</PrettyName>
+    <Year>2015</Year>
+    <ModelId>GCN3</ModelId>
+
+    <specs>
+        <cpu>Core M-5Y31 / Core M-5Y51 / Core M-5Y71</cpu>
+        <gfx>Intel HD Graphics 5300</gfx>
+        <ram>1600 MHz LPDDR3 SDRAM</ram>
+    </specs>
+</mac>
+<mac model="macbook91">
+    <BiosReleaseDate>06/26/2017</BiosReleaseDate>
+    <BiosVendor>Apple Inc.</BiosVendor>
+    <BiosVersion>MB91.88Z.0155.B01.1706260138</BiosVersion>
+    <BoardID>Mac-9AE82516C7C6B903</BoardID>
+    <BoardManufacturer>Apple Inc.</BoardManufacturer>
+    <BoardVersion>MacBook9,1</BoardVersion>
+    <BoardType>10</BoardType>
+    <ChassisManufacturer>Apple Inc.</ChassisManufacturer>
+    <ChassisType>09</ChassisType>
+    <ChassisAsset>MacBook-Aluminum</ChassisAsset>
+    <LocationInChassis>Part Component</LocationInChassis>
+    <Family>MacBook</Family>
+    <FirmwareVendor>Apple Inc.</FirmwareVendor>
+    <Manufacturer>Apple Inc.</Manufacturer>
+    <Mobile>true</Mobile>
+    <ProductName>MacBook9,1</ProductName>
+    <SmcRevision>2.35f15</SmcRevision>
+    <Version>1.0</Version>
+
+    <PrettyName>MacBook 9,1 - Core M3/M5/M7 Skylake</PrettyName>
+    <Year>2016</Year>
+    <ModelId>HDNK</ModelId>
+
+    <specs>
+        <cpu>Core M3-6Y30 / Core M5-6Y54 / Core M7-6Y75</cpu>
+        <gfx>Intel HD Graphics 515</gfx>
+        <ram>1866 MHz LPDDR3 SDRAM</ram>
+    </specs>
+</mac>
+<mac model="macbook101">
+    <BiosReleaseDate>06/26/2017</BiosReleaseDate>
+    <BiosVendor>Apple Inc.</BiosVendor>
+    <BiosVersion>MB101.88Z.0150.B01.1706260154</BiosVersion>
+    <BoardID>Mac-EE2EBD4B90B839A8</BoardID>
+    <BoardManufacturer>Apple Inc.</BoardManufacturer>
+    <BoardVersion>MacBook10,1</BoardVersion>
+    <BoardType>10</BoardType>
+    <ChassisManufacturer>Apple Inc.</ChassisManufacturer>
+    <ChassisType>09</ChassisType>
+    <ChassisAsset>MacBook-Aluminum</ChassisAsset>
+    <LocationInChassis>Part Component</LocationInChassis>
+    <Family>MacBook</Family>
+    <FirmwareVendor>Apple Inc.</FirmwareVendor>
+    <Manufacturer>Apple Inc.</Manufacturer>
+    <Mobile>true</Mobile>
+    <ProductName>MacBook10,1</ProductName>
+    <SmcRevision>2.24f10</SmcRevision>
+    <Version>1.0</Version>
+
+    <PrettyName>MacBook 10,1 - Core M3/i5/i7 Kaby Lake</PrettyName>
+    <Year>2017</Year>
+    <ModelId>HH27</ModelId>
+
+    <specs>
+        <cpu>Core M3-7Y32 / Core i5-7Y54 / Core i7-7Y75</cpu>
+        <gfx>Intel HD Graphics 615</gfx>
+        <ram>1866 MHz LPDDR3 SDRAM</ram>
+    </specs>
+</mac>
+<mac model="macmini11">
+    <BiosReleaseDate>10/12/06</BiosReleaseDate>
+    <BiosVendor>Apple Inc.</BiosVendor>
+    <BiosVersion>MM11.88Z.0055.B08.0610121326</BiosVersion>
+    <BoardID>Mac-F4208EC8</BoardID>
+    <BoardManufacturer>Apple Inc.</BoardManufacturer>
+    <BoardVersion>Macmini1,1</BoardVersion>
+    <BoardType>10</BoardType>
+    <ChassisManufacturer>Apple Inc.</ChassisManufacturer>
+    <ChassisType>04</ChassisType>
+    <ChassisAsset>Mini-Aluminum</ChassisAsset>
+    <LocationInChassis>Part Component</LocationInChassis>
+    <Family>Mac mini</Family>
+    <FirmwareVendor>Apple Inc.</FirmwareVendor>
+    <Manufacturer>Apple Inc.</Manufacturer>
+    <Mobile>false</Mobile>
+    <ProductName>Macmini1,1</ProductName>
+    <SmcRevision>1.3f4</SmcRevision>
+    <Version>1.0</Version>
+
+    <PrettyName>Mac Mini 1,1 - Core Duo Yonah</PrettyName>
+    <Year>2007,2006</Year>
+    <ModelId>U35</ModelId>
+
+    <specs>
+        <cpu>Core Duo T2300 / Core Duo T2400 / Core Duo T1200</cpu>
+        <gfx>Intel GMA950 graphics</gfx>
+        <ram>667 MHz DDR2 SDRAM</ram>
+    </specs>
+</mac>
+<mac model="macmini21">
+    <BiosReleaseDate>06/28/07</BiosReleaseDate>
+    <BiosVendor>Apple Inc.</BiosVendor>
+    <BiosVersion>MM21.88Z.009A.B00.0706281359</BiosVersion>
+    <BoardID>Mac-F4208EAA</BoardID>
+    <BoardManufacturer>Apple Inc.</BoardManufacturer>
+    <BoardVersion>Macmini2,1</BoardVersion>
+    <BoardType>10</BoardType>
+    <ChassisManufacturer>Apple Inc.</ChassisManufacturer>
+    <ChassisType>04</ChassisType>
+    <ChassisAsset>Mini-Aluminum</ChassisAsset>
+    <LocationInChassis>Part Component</LocationInChassis>
+    <Family>Mac mini</Family>
+    <FirmwareVendor>Apple Inc.</FirmwareVendor>
+    <Manufacturer>Apple Inc.</Manufacturer>
+    <Mobile>false</Mobile>
+    <ProductName>Macmini2,1</ProductName>
+    <SmcRevision>1.19f2</SmcRevision>
+    <Version>1.1</Version>
+
+    <PrettyName>Mac Mini 2,1 - Core 2 Duo Merom</PrettyName>
+    <Year>2007,2006</Year>
+    <ModelId>YL2</ModelId>
+
+    <specs>
+        <cpu>Core 2 Duo T5600 / Core 2 Duo T7200</cpu>
+        <gfx>Intel GMA950 graphics</gfx>
+        <ram>667 MHz DDR2 SDRAM</ram>
+    </specs>
+</mac>
+<mac model="macmini31">
+    <BiosReleaseDate>04/27/09</BiosReleaseDate>
+    <BiosVendor>Apple Inc.</BiosVendor>
+    <BiosVersion>MM31.88Z.0081.B06.0904271717</BiosVersion>
+    <BoardID>Mac-F22C86C8</BoardID>
+    <BoardManufacturer>Apple Inc.</BoardManufacturer>
+    <BoardVersion>Macmini3,1</BoardVersion>
+    <BoardType>10</BoardType>
+    <ChassisManufacturer>Apple Inc.</ChassisManufacturer>
+    <ChassisType>10</ChassisType>
+    <ChassisAsset>Mini-Aluminum</ChassisAsset>
+    <LocationInChassis>Part Component</LocationInChassis>
+    <Family>Mac mini</Family>
+    <FirmwareVendor>Apple Inc.</FirmwareVendor>
+    <Manufacturer>Apple Inc.</Manufacturer>
+    <Mobile>false</Mobile>
+    <ProductName>Macmini3,1</ProductName>
+    <SmcRevision>1.35f1</SmcRevision>
+    <Version>1.0</Version>
+
+    <PrettyName>Mac Mini 3,1 - Core 2 Duo Penryn</PrettyName>
+    <Year>2009</Year>
+    <ModelId>19X</ModelId>
+
+    <specs>
+        <cpu>Core 2 Duo: P8700 / P7350 / P7550 / P8400 / P8800</cpu>
+        <gfx>NVIDIA GeForce 9400M</gfx>
+        <ram>1066 MHz DDR3 SDRAM</ram>
+    </specs>
+</mac>
+<mac model="macmini41">
+    <BiosReleaseDate>06/26/17</BiosReleaseDate>
+    <BiosVendor>Apple Inc.</BiosVendor>
+    <BiosVersion>MM41.88Z.0043.B01.1706261836</BiosVersion>
+    <BoardID>Mac-F2208EC8</BoardID>
+    <BoardManufacturer>Apple Inc.</BoardManufacturer>
+    <BoardVersion>Macmini4,1</BoardVersion>
+    <BoardType>10</BoardType>
+    <ChassisManufacturer>Apple Inc.</ChassisManufacturer>
+    <ChassisType>10</ChassisType>
+    <ChassisAsset>Mini-Aluminum</ChassisAsset>
+    <LocationInChassis>Part Component</LocationInChassis>
+    <Family>Mac mini</Family>
+    <FirmwareVendor>Apple Inc.</FirmwareVendor>
+    <Manufacturer>Apple Inc.</Manufacturer>
+    <Mobile>false</Mobile>
+    <ProductName>Macmini4,1</ProductName>
+    <SmcRevision>1.65f2</SmcRevision>
+    <Version>1.0</Version>
+
+    <PrettyName>Mac Mini 4,1 - Core 2 Duo Penryn</PrettyName>
+    <Year>2011,2010</Year>
+    <ModelId>DD6H</ModelId>
+
+    <specs>
+        <cpu>Core 2 Duo: P8800 / Core 2 Duo P8600</cpu>
+        <gfx>NVIDIA GeForce 320M</gfx>
+        <ram>1066 MHz DDR3 SDRAM</ram>
+    </specs>
+</mac>
+<mac model="macmini51">
+    <BiosReleaseDate>06/26/2017</BiosReleaseDate>
+    <BiosVendor>Apple Inc.</BiosVendor>
+    <BiosVersion>MM51.88Z.0078.B01.1706261437</BiosVersion>
+    <BoardID>Mac-8ED6AF5B48C039E1</BoardID>
+    <BoardManufacturer>Apple Inc.</BoardManufacturer>
+    <BoardVersion>Macmini5,1</BoardVersion>
+    <BoardType>10</BoardType>
+    <ChassisManufacturer>Apple Inc.</ChassisManufacturer>
+    <ChassisType>10</ChassisType>
+    <ChassisAsset>Mini-Aluminum</ChassisAsset>
+    <LocationInChassis>Part Component</LocationInChassis>
+    <Family>Mac mini</Family>
+    <FirmwareVendor>Apple Inc.</FirmwareVendor>
+    <Manufacturer>Apple Inc.</Manufacturer>
+    <Mobile>false</Mobile>
+    <ProductName>Macmini5,1</ProductName>
+    <SmcRevision>1.30f3</SmcRevision>
+    <Version>1.0</Version>
+
+    <PrettyName>Mac Mini 5,1 - Core i5 Sandy Bridge</PrettyName>
+    <Year>2011,2012</Year>
+    <ModelId>DJD0</ModelId>
+
+    <specs>
+        <cpu>Core i5-2415M</cpu>
+        <gfx>Intel HD Graphics 3000</gfx>
+        <ram>1333 MHz DDR3 SDRAM</ram>
+    </specs>
+</mac>
+<mac model="macmini52">
+    <BiosReleaseDate>06/26/2017</BiosReleaseDate>
+    <BiosVendor>Apple Inc.</BiosVendor>
+    <BiosVersion>MM51.88Z.0078.B01.1706261437</BiosVersion>
+    <BoardID>Mac-4BC72D62AD45599E</BoardID>
+    <BoardManufacturer>Apple Inc.</BoardManufacturer>
+    <BoardVersion>Macmini5,2</BoardVersion>
+    <BoardType>10</BoardType>
+    <ChassisManufacturer>Apple Inc.</ChassisManufacturer>
+    <ChassisType>10</ChassisType>
+    <ChassisAsset>Mini-Aluminum</ChassisAsset>
+    <LocationInChassis>Part Component</LocationInChassis>
+    <Family>Mac mini</Family>
+    <FirmwareVendor>Apple Inc.</FirmwareVendor>
+    <Manufacturer>Apple Inc.</Manufacturer>
+    <Mobile>false</Mobile>
+    <ProductName>Macmini5,2</ProductName>
+    <SmcRevision>1.75f0</SmcRevision>
+    <Version>1.0</Version>
+
+    <PrettyName>Mac Mini 5,2 - Core i5 Sandy Bridge</PrettyName>
+    <Year>2011</Year>
+    <ModelId>DJD1</ModelId>
+
+    <specs>
+        <cpu>Core i5-2520M / Core i5-2620M</cpu>
+        <gfx>AMD Radeon HD 6630M</gfx>
+        <ram>1333 MHz DDR3 SDRAM</ram>
+    </specs>
+</mac>
+<mac model="macmini53">
+    <BiosReleaseDate>06/26/2017</BiosReleaseDate>
+    <BiosVendor>Apple Inc.</BiosVendor>
+    <BiosVersion>MM51.88Z.0078.B01.1706261437</BiosVersion>
+    <BoardID>Mac-7BA5B2794B2CDB12</BoardID>
+    <BoardManufacturer>Apple Inc.</BoardManufacturer>
+    <BoardVersion>Macmini5,3</BoardVersion>
+    <BoardType>10</BoardType>
+    <ChassisManufacturer>Apple Inc.</ChassisManufacturer>
+    <ChassisType>10</ChassisType>
+    <ChassisAsset>Mini-Aluminum</ChassisAsset>
+    <LocationInChassis>Part Component</LocationInChassis>
+    <Family>Mac mini</Family>
+    <FirmwareVendor>Apple Inc.</FirmwareVendor>
+    <Manufacturer>Apple Inc.</Manufacturer>
+    <Mobile>false</Mobile>
+    <ProductName>Macmini5,3</ProductName>
+    <SmcRevision>1.77f0</SmcRevision>
+    <Version>1.0</Version>
+
+    <PrettyName>Mac Mini 5,3 - Core i7 Sandy Bridge</PrettyName>
+    <Year>2011</Year>
+    <ModelId>DKDJ</ModelId>
+
+    <specs>
+        <cpu>Core i7-2635QM</cpu>
+        <gfx>Intel HD Graphics 3000</gfx>
+        <ram>1333 MHz DDR3 SDRAM</ram>
+    </specs>
+</mac>
+<mac model="macmini61">
+    <BiosReleaseDate>06/26/2017</BiosReleaseDate>
+    <BiosVendor>Apple Inc.</BiosVendor>
+    <BiosVersion>MM61.88Z.0107.B01.1706261217</BiosVersion>
+    <BoardID>Mac-031AEE4D24BFF0B1</BoardID>
+    <BoardManufacturer>Apple Inc.</BoardManufacturer>
+    <BoardVersion>Macmini6,1</BoardVersion>
+    <BoardType>10</BoardType>
+    <ChassisManufacturer>Apple Inc.</ChassisManufacturer>
+    <ChassisType>10</ChassisType>
+    <ChassisAsset>Mini-Aluminum</ChassisAsset>
+    <LocationInChassis>Part Component</LocationInChassis>
+    <Family>Mac mini</Family>
+    <FirmwareVendor>Apple Inc.</FirmwareVendor>
+    <Manufacturer>Apple Inc.</Manufacturer>
+    <Mobile>false</Mobile>
+    <ProductName>Macmini6,1</ProductName>
+    <SmcRevision>2.7f0</SmcRevision>
+    <Version>1.0</Version>
+
+    <PrettyName>Mac Mini 6,1 - Core i5 Ivy Bridge</PrettyName>
+    <Year>2012</Year>
+    <ModelId>DY3H</ModelId>
+
+    <specs>
+        <cpu>Core i5-3210M</cpu>
+        <gfx>Intel HD Graphics 4000</gfx>
+        <ram>1600 MHz DDR3 SDRAM</ram>
+    </specs>
+</mac>
+<mac model="macmini62">
+    <BiosReleaseDate>06/26/2017</BiosReleaseDate>
+    <BiosVendor>Apple Inc.</BiosVendor>
+    <BiosVersion>MM61.88Z.0107.B01.1706261217</BiosVersion>
+    <BoardID>Mac-F65AE981FFA204ED</BoardID>
+    <BoardManufacturer>Apple Inc.</BoardManufacturer>
+    <BoardVersion>Macmini6,2</BoardVersion>
+    <BoardType>10</BoardType>
+    <ChassisManufacturer>Apple Inc.</ChassisManufacturer>
+    <ChassisType>10</ChassisType>
+    <ChassisAsset>Mini-Aluminum</ChassisAsset>
+    <LocationInChassis>Part Component</LocationInChassis>
+    <Family>Mac mini</Family>
+    <FirmwareVendor>Apple Inc.</FirmwareVendor>
+    <Manufacturer>Apple Inc.</Manufacturer>
+    <Mobile>false</Mobile>
+    <ProductName>Macmini6,2</ProductName>
+    <SmcRevision>2.8f1</SmcRevision>
+    <Version>1.0</Version>
+
+    <PrettyName>Mac Mini 6,2 - Core i7 Ivy Bridge</PrettyName>
+    <Year>2012,2013</Year>
+    <ModelId>DWYN</ModelId>
+
+    <specs>
+        <cpu>Core i7-3720QM / Core i7-3615QM</cpu>
+        <gfx>Intel HD Graphics 4000</gfx>
+        <ram>1600 MHz DDR3 SDRAM</ram>
+    </specs>
+</mac>
+<mac model="macmini71">
+    <BiosReleaseDate>06/26/2017</BiosReleaseDate>
+    <BiosVendor>Apple Inc.</BiosVendor>
+    <BiosVersion>MM71.88Z.0221.B02.1706261516</BiosVersion>
+    <BoardID>Mac-35C5E08120C7EEAF</BoardID>
+    <BoardManufacturer>Apple Inc.</BoardManufacturer>
+    <BoardVersion>Macmini7,1</BoardVersion>
+    <BoardType>10</BoardType>
+    <ChassisManufacturer>Apple Inc.</ChassisManufacturer>
+    <ChassisType>0A</ChassisType>
+    <ChassisAsset>Mini-Aluminum</ChassisAsset>
+    <LocationInChassis>Part Component</LocationInChassis>
+    <Family>Mac mini</Family>
+    <FirmwareVendor>Apple Inc.</FirmwareVendor>
+    <Manufacturer>Apple Inc.</Manufacturer>
+    <Mobile>true</Mobile>
+    <ProductName>Macmini7,1</ProductName>
+    <SmcRevision>2.24f32</SmcRevision>
+    <Version>1.0</Version>
+
+    <PrettyName>Mac Mini 7,1 - Core i5/i7 Haswell</PrettyName>
+    <Year>2014</Year>
+    <ModelId>G1J0</ModelId>
+
+    <specs>
+        <cpu>Core i5-4278U / Core i5-4308U / Core i5-4260U / Core i7-4578U</cpu>
+        <gfx>Intel Iris 5100 graphics</gfx>
+        <ram>1600 MHz LPDDR3 SDRAM</ram>
+    </specs>
+</mac>
+<mac model="macpro11">
+    <BiosReleaseDate>07/02/07</BiosReleaseDate>
+    <BiosVendor>Apple Inc.</BiosVendor>
+    <BiosVersion>MP11.88Z.005C.B08.0707021221</BiosVersion>
+    <BoardID>Mac-F4208DC8</BoardID>
+    <BoardManufacturer>Apple Inc.</BoardManufacturer>
+    <BoardVersion>MacPro1,1</BoardVersion>
+    <BoardType>11</BoardType>
+    <ChassisManufacturer>Apple Inc.</ChassisManufacturer>
+    <ChassisType>02</ChassisType>
+    <ChassisAsset>Pro-Enclosure</ChassisAsset>
+    <LocationInChassis>Part Component</LocationInChassis>
+    <Family>MacPro</Family>
+    <FirmwareVendor>Apple Inc.</FirmwareVendor>
+    <Manufacturer>Apple Inc.</Manufacturer>
+    <Mobile>false</Mobile>
+    <ProductName>MacPro1,1</ProductName>
+    <SmcRevision>1.7f10</SmcRevision>
+    <Version>1.0</Version>
+
+    <PrettyName>Mac Pro 1,1 - Core Xeon Woodcrest</PrettyName>
+    <Year>2006</Year>
+    <ModelId>UPZ</ModelId>
+
+    <specs>
+        <cpu>2x Xeon 5130 / 2x Xeon 5150 / 2x Xeon 5160</cpu>
+        <gfx>NVIDIA GeForce 7300 GT</gfx>
+        <ram>667 MHz DDR2 ECC FB-DIMM</ram>
+    </specs>
+</mac>
+<mac model="macpro21">
+    <BiosReleaseDate>07/02/07</BiosReleaseDate>
+    <BiosVendor>Apple Inc.</BiosVendor>
+    <BiosVersion>MP21.88Z.007F.B06.0707021348</BiosVersion>
+    <BoardID>Mac-F4208DA9</BoardID>
+    <BoardManufacturer>Apple Inc.</BoardManufacturer>
+    <BoardVersion>MacPro2,1</BoardVersion>
+    <BoardType>11</BoardType>
+    <ChassisManufacturer>Apple Inc.</ChassisManufacturer>
+    <ChassisType>02</ChassisType>
+    <ChassisAsset>Pro-Enclosure</ChassisAsset>
+    <LocationInChassis>Part Component</LocationInChassis>
+    <Family>MacPro</Family>
+    <FirmwareVendor>Apple Inc.</FirmwareVendor>
+    <Manufacturer>Apple Inc.</Manufacturer>
+    <Mobile>false</Mobile>
+    <ProductName>MacPro2,1</ProductName>
+    <SmcRevision>1.15f3</SmcRevision>
+    <Version>1.0</Version>
+
+    <PrettyName>Mac Pro 2,1 - Xeon X5365 Clovertown</PrettyName>
+    <Year>2007</Year>
+    <ModelId>UPZ</ModelId>
+
+    <specs>
+        <cpu>2x Xeon X5365</cpu>
+        <gfx>NVIDIA GeForce 7300 GT</gfx>
+        <ram>667 MHz DDR2 ECC FB-DIMM</ram>
+    </specs>
+</mac>
+<mac model="macpro31">
+    <BiosReleaseDate>02/29/08</BiosReleaseDate>
+    <BiosVendor>Apple Inc.</BiosVendor>
+    <BiosVersion>MP31.88Z.006C.B05.0802291410</BiosVersion>
+    <BoardID>Mac-F42C88C8</BoardID>
+    <BoardManufacturer>Apple Inc.</BoardManufacturer>
+    <BoardVersion>MacPro3,1</BoardVersion>
+    <BoardType>11</BoardType>
+    <ChassisManufacturer>Apple Inc.</ChassisManufacturer>
+    <ChassisType>02</ChassisType>
+    <ChassisAsset>Pro-Enclosure</ChassisAsset>
+    <LocationInChassis>Part Component</LocationInChassis>
+    <Family>MacPro</Family>
+    <FirmwareVendor>Apple Inc.</FirmwareVendor>
+    <Manufacturer>Apple Inc.</Manufacturer>
+    <Mobile>false</Mobile>
+    <ProductName>MacPro3,1</ProductName>
+    <SmcRevision>1.30f3</SmcRevision>
+    <Version>1.3</Version>
+
+    <PrettyName>Mac Pro 3,1 - Xeon E54xx/X5482 Harpertown/Penryn</PrettyName>
+    <Year>2008,2009</Year>
+    <ModelId>5J4</ModelId>
+
+    <specs>
+        <cpu>Xeon E5462 / Xeon E5472 / Xeon X5482</cpu>
+        <gfx>ATI Radeon HD 2600 XT</gfx>
+        <ram>800 MHz DDR2 EEC FB-DIMM</ram>
+    </specs>
+</mac>
+<mac model="macpro41">
+    <BiosReleaseDate>10/13/09</BiosReleaseDate>
+    <BiosVendor>Apple Inc.</BiosVendor>
+    <BiosVersion>MP41.88Z.0081.B07.0910130729</BiosVersion>
+    <BoardID>Mac-F221BEC8</BoardID>
+    <BoardManufacturer>Apple Inc.</BoardManufacturer>
+    <BoardVersion>MacPro4,1</BoardVersion>
+    <BoardType>11</BoardType>
+    <ChassisManufacturer>Apple Inc.</ChassisManufacturer>
+    <ChassisType>07</ChassisType>
+    <ChassisAsset>Pro-Enclosure</ChassisAsset>
+    <LocationInChassis>Part Component</LocationInChassis>
+    <Family>MacPro</Family>
+    <FirmwareVendor>Apple Inc.</FirmwareVendor>
+    <Manufacturer>Apple Inc.</Manufacturer>
+    <Mobile>false</Mobile>
+    <ProductName>MacPro4,1</ProductName>
+    <SmcRevision>1.39f5</SmcRevision>
+    <Version>1.4</Version>
+
+    <PrettyName>Mac Pro 4,1 - Xeon X55xx/W35xx Nehalem</PrettyName>
+    <Year>2009,2010</Year>
+    <ModelId>K9Y</ModelId>
+
+    <specs>
+        <cpu>Xeon: W3520 / W3540 / W3580 / X5550 / X5570 / E5520</cpu>
+        <gfx>NVIDIA GeForce GT 120</gfx>
+        <ram>1066 MHz DDR3 ECC SDRAM</ram>
+    </specs>
+</mac>
+<mac model="macpro51">
+    <BiosReleaseDate>10/07/10</BiosReleaseDate>
+    <BiosVendor>Apple Inc.</BiosVendor>
+    <BiosVersion>MP51.88Z.007F.B03.1010071432</BiosVersion>
+    <BoardID>Mac-F221BEC8</BoardID>
+    <BoardManufacturer>Apple Inc.</BoardManufacturer>
+    <BoardVersion>MacPro5,1</BoardVersion>
+    <BoardType>11</BoardType>
+    <ChassisManufacturer>Apple Inc.</ChassisManufacturer>
+    <ChassisType>07</ChassisType>
+    <ChassisAsset>Pro-Enclosure</ChassisAsset>
+    <LocationInChassis>Part Component</LocationInChassis>
+    <Family>MacPro</Family>
+    <FirmwareVendor>Apple Inc.</FirmwareVendor>
+    <Manufacturer>Apple Inc.</Manufacturer>
+    <Mobile>false</Mobile>
+    <ProductName>MacPro5,1</ProductName>
+    <SmcRevision>1.39f11</SmcRevision>
+    <Version>1.2</Version>
+
+    <PrettyName>Mac Pro 5,1 - Xeon X56xx/W35xx/W36xx Westmere</PrettyName>
+    <Year>2010,2011,2012</Year>
+    <ModelId>F4MC</ModelId>
+
+    <specs>
+        <cpu>Xeon: X5675 / X5670 / W3530 / W3565 / E5620 / E5645</cpu>
+        <gfx>ATI Radeon HD 5770</gfx>
+        <ram>1333 MHz DDR3 ECC SDRAM</ram>
+    </specs>
+</mac>
+<mac model="macpro61">
+    <BiosReleaseDate>06/26/2017</BiosReleaseDate>
+    <BiosVendor>Apple Inc.</BiosVendor>
+    <BiosVersion>MP61.88Z.0117.B01.1706261354</BiosVersion>
+    <BoardID>Mac-F60DEB81FF30ACF6</BoardID>
+    <BoardManufacturer>Apple Inc.</BoardManufacturer>
+    <BoardVersion>MacPro6,1</BoardVersion>
+    <BoardType>11</BoardType>
+    <ChassisManufacturer>Apple Inc.</ChassisManufacturer>
+    <ChassisType>02</ChassisType>
+    <ChassisAsset>Pro-Enclosure</ChassisAsset>
+    <LocationInChassis>Part Component</LocationInChassis>
+    <Family>MacPro</Family>
+    <FirmwareVendor>Apple Inc.</FirmwareVendor>
+    <Manufacturer>Apple Inc.</Manufacturer>
+    <Mobile>false</Mobile>
+    <ProductName>MacPro6,1</ProductName>
+    <SmcRevision>2.20f18</SmcRevision>
+    <Version>1.0</Version>
+
+    <PrettyName>Mac Pro 6,1 - Xeon E5-16xx Ivy Bridge EP</PrettyName>
+    <Year>2013</Year>
+    <ModelId>F9VM</ModelId>
+
+    <specs>
+        <cpu>Xeon: E5-1620v2 / E5-1650v2 / E5-1680v2 / E5-2697v2</cpu>
+        <gfx>2x AMD FirePro D300 / 2x AMD FirePro D500 / 2x AMD FirePro D700</gfx>
+        <ram>1866 MHz DDR3 ECC SDRAM</ram>
+    </specs>
+</mac>
+<mac model="xserve11">
+    <BiosReleaseDate>06/27/07</BiosReleaseDate>
+    <BiosVendor>Apple Inc.</BiosVendor>
+    <BiosVersion>XS11.88Z.0080.B01.0706271533</BiosVersion>
+    <BoardID>Mac-F4208AC8</BoardID>
+    <BoardManufacturer>Apple Inc.</BoardManufacturer>
+    <BoardVersion>Xserve1,1</BoardVersion>
+    <BoardType>11</BoardType>
+    <ChassisManufacturer>Apple Inc.</ChassisManufacturer>
+    <ChassisType>17</ChassisType>
+    <ChassisAsset>Xserve</ChassisAsset>
+    <LocationInChassis>Part Component</LocationInChassis>
+    <Family>Xserve</Family>
+    <FirmwareVendor>Apple Inc.</FirmwareVendor>
+    <Manufacturer>Apple Inc.</Manufacturer>
+    <Mobile>false</Mobile>
+    <ProductName>Xserve1,1</ProductName>
+    <SmcRevision>1.11f5</SmcRevision>
+    <Version>1.0</Version>
+
+    <PrettyName>Xserve 1,1 - Core Xeon Woodcrest</PrettyName>
+    <Year>2006</Year>
+    <ModelId>V2Q</ModelId>
+
+    <specs>
+        <cpu>2x Xeon 5130 / 2x Xeon 5150 / 2x Xeon 5160</cpu>
+        <gfx>ATI Radeon X1300</gfx>
+        <ram>667 MHz DDR2 ECC FB-DIMM</ram>
+    </specs>
+</mac>
+<mac model="xserve21">
+    <BiosReleaseDate>04/01/08</BiosReleaseDate>
+    <BiosVendor>Apple Inc.</BiosVendor>
+    <BiosVersion>XS21.88Z.006C.B06.0804011317</BiosVersion>
+    <BoardID>Mac-F42289C8</BoardID>
+    <BoardManufacturer>Apple Inc.</BoardManufacturer>
+    <BoardVersion>Xserve2,1</BoardVersion>
+    <BoardType>11</BoardType>
+    <ChassisManufacturer>Apple Inc.</ChassisManufacturer>
+    <ChassisType>17</ChassisType>
+    <ChassisAsset>Xserve</ChassisAsset>
+    <LocationInChassis>Part Component</LocationInChassis>
+    <Family>Xserve</Family>
+    <FirmwareVendor>Apple Inc.</FirmwareVendor>
+    <Manufacturer>Apple Inc.</Manufacturer>
+    <Mobile>false</Mobile>
+    <ProductName>Xserve2,1</ProductName>
+    <SmcRevision>1.26f3</SmcRevision>
+    <Version>1.0</Version>
+
+    <PrettyName>Xserve 2,1 - Core Xeon Harpertown</PrettyName>
+    <Year>2008</Year>
+    <ModelId>X8S</ModelId>
+
+    <specs>
+        <cpu>Xeon E5462 / Xeon E5472</cpu>
+        <gfx>ATI Radeon X1300</gfx>
+        <ram>800 MHz DDR2 ECC FB-DIMM</ram>
+    </specs>
+</mac>
+<mac model="xserve31">
+    <BiosReleaseDate>08/06/09</BiosReleaseDate>
+    <BiosVendor>Apple Inc.</BiosVendor>
+    <BiosVersion>XS31.88Z.0081.B06.0908061300</BiosVersion>
+    <BoardID>Mac-F223BEC8</BoardID>
+    <BoardManufacturer>Apple Inc.</BoardManufacturer>
+    <BoardVersion>Xserve3,1</BoardVersion>
+    <BoardType>11</BoardType>
+    <ChassisManufacturer>Apple Inc.</ChassisManufacturer>
+    <ChassisType>17</ChassisType>
+    <ChassisAsset>Xserve</ChassisAsset>
+    <LocationInChassis>Part Component</LocationInChassis>
+    <Family>Xserve</Family>
+    <FirmwareVendor>Apple Inc.</FirmwareVendor>
+    <Manufacturer>Apple Inc.</Manufacturer>
+    <Mobile>false</Mobile>
+    <ProductName>Xserve3,1</ProductName>
+    <SmcRevision>1.43f4</SmcRevision>
+    <Version>1.0</Version>
+
+    <PrettyName>Xserve 3,1 - Core Xeon Nehalem</PrettyName>
+    <Year>2011</Year>
+    <ModelId>6HS</ModelId>
+
+    <specs>
+        <cpu>Xeon E5520 / Xeon E5550</cpu>
+        <gfx>NVIDIA GeForce GT 120</gfx>
+        <ram>1066 MHz DDR3 ECC SDRAM</ram>
+    </specs>
+</mac>
+<mac model="imac41">
+    <BiosReleaseDate>09/06/06</BiosReleaseDate>
+    <BiosVendor>Apple Inc.</BiosVendor>
+    <BiosVersion>IM41.88Z.0055.B08.0609061538</BiosVersion>
+    <BoardID>Mac-F42787C8</BoardID>
+    <BoardManufacturer>Apple Inc.</BoardManufacturer>
+    <BoardVersion>iMac4,1</BoardVersion>
+    <BoardType>10</BoardType>
+    <ChassisManufacturer>Apple Inc.</ChassisManufacturer>
+    <ChassisType>0D</ChassisType>
+    <ChassisAsset>iMac</ChassisAsset>
+    <LocationInChassis>Part Component</LocationInChassis>
+    <Family>iMac</Family>
+    <FirmwareVendor>Apple Inc.</FirmwareVendor>
+    <Manufacturer>Apple Inc.</Manufacturer>
+    <Mobile>false</Mobile>
+    <ProductName>iMac4,1</ProductName>
+    <SmcRevision>1.1f5</SmcRevision>
+    <Version>1.0</Version>
+
+    <PrettyName>iMac 4,1 - Core Duo Yonah</PrettyName>
+    <Year>2006</Year>
+    <ModelId>U2P</ModelId>
+
+    <specs>
+        <cpu>Core Duo T2400 / Core Duo T2500</cpu>
+        <gfx>ATI Radeon X1600</gfx>
+        <ram>667 MHz DDR2 SDRAM, PC2-5300</ram>
+    </specs>
+</mac>
+<mac model="imac42">
+    <BiosReleaseDate>10/12/06</BiosReleaseDate>
+    <BiosVendor>Apple Inc.</BiosVendor>
+    <BiosVersion>IM42.88Z.0071.B03.0610121320</BiosVersion>
+    <BoardID>Mac-F4218EC8</BoardID>
+    <BoardManufacturer>Apple Inc.</BoardManufacturer>
+    <BoardVersion>iMac4,2</BoardVersion>
+    <BoardType>10</BoardType>
+    <ChassisManufacturer>Apple Inc.</ChassisManufacturer>
+    <ChassisType>0D</ChassisType>
+    <ChassisAsset>iMac</ChassisAsset>
+    <LocationInChassis>Part Component</LocationInChassis>
+    <Family>iMac</Family>
+    <FirmwareVendor>Apple Inc.</FirmwareVendor>
+    <Manufacturer>Apple Inc.</Manufacturer>
+    <Mobile>false</Mobile>
+    <ProductName>iMac4,2</ProductName>
+    <SmcRevision>1.6f0</SmcRevision>
+    <Version>1.0</Version>
+
+    <PrettyName>iMac 4,2 - Core Duo Yonah</PrettyName>
+    <Year>2006</Year>
+    <ModelId>V2H</ModelId>
+
+    <specs>
+        <cpu>Core Duo T2400</cpu>
+        <gfx>Intel GMA950 graphics</gfx>
+        <ram>667 MHz DDR2 SDRAM, PC2-5300</ram>
+    </specs>
+</mac>
+<mac model="imac51">
+    <BiosReleaseDate>06/27/07</BiosReleaseDate>
+    <BiosVendor>Apple Inc.</BiosVendor>
+    <BiosVersion>IM51.88Z.0090.B09.0706270921</BiosVersion>
+    <BoardID>Mac-F4228EC8</BoardID>
+    <BoardManufacturer>Apple Inc.</BoardManufacturer>
+    <BoardVersion>iMac5,1</BoardVersion>
+    <BoardType>10</BoardType>
+    <ChassisManufacturer>Apple Inc.</ChassisManufacturer>
+    <ChassisType>0D</ChassisType>
+    <ChassisAsset>iMac</ChassisAsset>
+    <LocationInChassis>Part Component</LocationInChassis>
+    <Family>iMac</Family>
+    <FirmwareVendor>Apple Inc.</FirmwareVendor>
+    <Manufacturer>Apple Inc.</Manufacturer>
+    <Mobile>false</Mobile>
+    <ProductName>iMac5,1</ProductName>
+    <SmcRevision>1.8f2</SmcRevision>
+    <Version>1.0</Version>
+
+    <PrettyName>iMac 5,1 - Core 2 Duo Merom</PrettyName>
+    <Year>2006</Year>
+    <ModelId>X1A</ModelId>
+
+    <specs>
+        <cpu>Core 2 Duo T7200 / Core 2 Duo T7400 / Core 2 Duo T7600</cpu>
+        <gfx>ATI Radeon X1600</gfx>
+        <ram>667 MHz DDR2 SDRAM, PC2-5300</ram>
+    </specs>
+</mac>
+<mac model="imac52">
+    <BiosReleaseDate>06/27/07</BiosReleaseDate>
+    <BiosVendor>Apple Inc.</BiosVendor>
+    <BiosVersion>IM52.88Z.0090.B09.0706270913</BiosVersion>
+    <BoardID>Mac-F4218EC8</BoardID>
+    <BoardManufacturer>Apple Inc.</BoardManufacturer>
+    <BoardVersion>iMac5,2</BoardVersion>
+    <BoardType>10</BoardType>
+    <ChassisManufacturer>Apple Inc.</ChassisManufacturer>
+    <ChassisType>0D</ChassisType>
+    <ChassisAsset>iMac</ChassisAsset>
+    <LocationInChassis>Part Component</LocationInChassis>
+    <Family>iMac</Family>
+    <FirmwareVendor>Apple Inc.</FirmwareVendor>
+    <Manufacturer>Apple Inc.</Manufacturer>
+    <Mobile>false</Mobile>
+    <ProductName>iMac5,2</ProductName>
+    <SmcRevision>1.6f0</SmcRevision>
+    <Version>1.0</Version>
+
+    <PrettyName>iMac 5,2 - Core 2 Duo Merom</PrettyName>
+    <Year>2006</Year>
+    <ModelId>WH5</ModelId>
+
+    <specs>
+        <cpu>Core 2 Duo T5600</cpu>
+        <gfx>Intel GMA 950 graphics</gfx>
+        <ram>667 MHz DDR2 SDRAM, PC2-5300</ram>
+    </specs>
+</mac>
+<mac model="imac61">
+    <BiosReleaseDate>04/28/08</BiosReleaseDate>
+    <BiosVendor>Apple Inc.</BiosVendor>
+    <BiosVersion>IM61.88Z.0093.B07.0804281538</BiosVersion>
+    <BoardID>Mac-F4218FC8</BoardID>
+    <BoardManufacturer>Apple Inc.</BoardManufacturer>
+    <BoardVersion>iMac6,1</BoardVersion>
+    <BoardType>10</BoardType>
+    <ChassisManufacturer>Apple Inc.</ChassisManufacturer>
+    <ChassisType>0D</ChassisType>
+    <ChassisAsset>iMac</ChassisAsset>
+    <LocationInChassis>Part Component</LocationInChassis>
+    <Family>iMac</Family>
+    <FirmwareVendor>Apple Inc.</FirmwareVendor>
+    <Manufacturer>Apple Inc.</Manufacturer>
+    <Mobile>false</Mobile>
+    <ProductName>iMac6,1</ProductName>
+    <SmcRevision>1.8f2</SmcRevision>
+    <Version>1.0</Version>
+
+    <PrettyName>iMac 6,1 - Core 2 Duo Merom</PrettyName>
+    <Year>2006</Year>
+    <ModelId>VGN</ModelId>
+
+    <specs>
+        <cpu>Core 2 Duo T7400 / Core 2 Duo T7600</cpu>
+        <gfx>ATI Radeon X1600</gfx>
+        <ram>667 MHz DDR2 SDRAM, PC2-5300</ram>
+    </specs>
+</mac>
+<mac model="imac71">
+    <BiosReleaseDate>03/05/08</BiosReleaseDate>
+    <BiosVendor>Apple Inc.</BiosVendor>
+    <BiosVersion>IM71.88Z.007A.B03.0803051705</BiosVersion>
+    <BoardID>Mac-F42386C8</BoardID>
+    <BoardManufacturer>Apple Inc.</BoardManufacturer>
+    <BoardVersion>iMac7,1</BoardVersion>
+    <BoardType>10</BoardType>
+    <ChassisManufacturer>Apple Inc.</ChassisManufacturer>
+    <ChassisType>0D</ChassisType>
+    <ChassisAsset>iMac-Aluminum</ChassisAsset>
+    <LocationInChassis>Part Component</LocationInChassis>
+    <Family>iMac</Family>
+    <FirmwareVendor>Apple Inc.</FirmwareVendor>
+    <Manufacturer>Apple Inc.</Manufacturer>
+    <Mobile>false</Mobile>
+    <ProductName>iMac7,1</ProductName>
+    <SmcRevision>1.20f4</SmcRevision>
+    <Version>1.0</Version>
+
+    <PrettyName>iMac 7,1 - Core 2 Duo/Extreme Merom</PrettyName>
+    <Year>2007</Year>
+    <ModelId>Y51</ModelId>
+
+    <specs>
+        <cpu>Core 2 Duo T7300 / Core 2 Duo T7700 / Core 2 Extreeme X7900</cpu>
+        <gfx>ATI Radeon HD 2400 XT</gfx>
+        <ram>667 MHz DDR2 SDRAM, PC2-5300</ram>
+    </specs>
+</mac>
+<mac model="imac81">
+    <BiosReleaseDate>02/09/08</BiosReleaseDate>
+    <BiosVendor>Apple Inc.</BiosVendor>
+    <BiosVersion>IM81.88Z.00C1.B00.0802091538</BiosVersion>
+    <BoardID>Mac-F227BEC8</BoardID>
+    <BoardManufacturer>Apple Inc.</BoardManufacturer>
+    <BoardVersion>iMac8,1</BoardVersion>
+    <BoardType>10</BoardType>
+    <ChassisManufacturer>Apple Inc.</ChassisManufacturer>
+    <ChassisType>0D</ChassisType>
+    <ChassisAsset>iMac-Aluminum</ChassisAsset>
+    <LocationInChassis>Part Component</LocationInChassis>
+    <Family>iMac</Family>
+    <FirmwareVendor>Apple Inc.</FirmwareVendor>
+    <Manufacturer>Apple Inc.</Manufacturer>
+    <Mobile>false</Mobile>
+    <ProductName>iMac8,1</ProductName>
+    <SmcRevision>1.29f1</SmcRevision>
+    <Version>1.3</Version>
+
+    <PrettyName>iMac 8,1 - Core 2 Duo Penryn</PrettyName>
+    <Year>2008,2009</Year>
+    <ModelId>2E2</ModelId>
+
+    <specs>
+        <cpu>Core 2 Duo (E8xxx Series)</cpu>
+        <gfx>ATI Radeon HD 2600 PRO / ATI Radeon HD 2400 XT / NVIDIA GeForce 8800 GS</gfx>
+        <ram>800 MHz DDR2 SDRAM, PC2-6400</ram>
+    </specs>
+</mac>
+<mac model="imac91">
+    <BiosReleaseDate>04/27/09</BiosReleaseDate>
+    <BiosVendor>Apple Inc.</BiosVendor>
+    <BiosVersion>IM91.88Z.008D.B08.0904271717</BiosVersion>
+    <BoardID>Mac-F2218FA9</BoardID>
+    <BoardManufacturer>Apple Inc.</BoardManufacturer>
+    <BoardVersion>iMac9,1</BoardVersion>
+    <BoardType>10</BoardType>
+    <ChassisManufacturer>Apple Inc.</ChassisManufacturer>
+    <ChassisType>0D</ChassisType>
+    <ChassisAsset>iMac-Aluminum</ChassisAsset>
+    <LocationInChassis>Part Component</LocationInChassis>
+    <Family>iMac</Family>
+    <FirmwareVendor>Apple Inc.</FirmwareVendor>
+    <Manufacturer>Apple Inc.</Manufacturer>
+    <Mobile>false</Mobile>
+    <ProductName>iMac9,1</ProductName>
+    <SmcRevision>1.36f3</SmcRevision>
+    <Version>1.0</Version>
+
+    <PrettyName>iMac 9,1 - Core 2 Duo Penryn</PrettyName>
+    <Year>2009</Year>
+    <ModelId>6MJ</ModelId>
+
+    <specs>
+        <cpu>Core 2 Duo (E8xxx Series / P7xxx Series)</cpu>
+        <gfx>NVIDIA GeForce GT 120 / NVIDIA GeForce 9400M / NVIDIA GeForce GT 130</gfx>
+        <ram>1066 MHz DDR3 SDRAM</ram>
+    </specs>
+</mac>
+<mac model="imac101">
+    <BiosReleaseDate>06/26/17</BiosReleaseDate>
+    <BiosVendor>Apple Inc.</BiosVendor>
+    <BiosVersion>IM101.88Z.00CD.B01.1706261549</BiosVersion>
+    <BoardID>Mac-F2268CC8</BoardID>
+    <BoardManufacturer>Apple Inc.</BoardManufacturer>
+    <BoardVersion>iMac10,1</BoardVersion>
+    <BoardType>10</BoardType>
+    <ChassisManufacturer>Apple Inc.</ChassisManufacturer>
+    <ChassisType>0D</ChassisType>
+    <ChassisAsset>iMac-Aluminum</ChassisAsset>
+    <LocationInChassis>Part Component</LocationInChassis>
+    <Family>iMac</Family>
+    <FirmwareVendor>Apple Inc.</FirmwareVendor>
+    <Manufacturer>Apple Inc.</Manufacturer>
+    <Mobile>false</Mobile>
+    <ProductName>iMac10,1</ProductName>
+    <SmcRevision>1.53f13</SmcRevision>
+    <Version>1.0</Version>
+
+    <PrettyName>iMac 10,1 - Core 2 Duo Penryn</PrettyName>
+    <Year>2009,2010</Year>
+    <ModelId>5PE</ModelId>
+
+    <specs>
+        <cpu>Core 2 Duo (E8600/E7600 Series)</cpu>
+        <gfx>ATI Radeon HD 4670 / NVIDIA GeForce 9400M</gfx>
+        <ram>1066 MHz PC3-8500 DDR3 SDRAM</ram>
+    </specs>
+</mac>
+<mac model="imac111">
+    <BiosReleaseDate>06/26/17</BiosReleaseDate>
+    <BiosVendor>Apple Inc.</BiosVendor>
+    <BiosVersion>IM111.88Z.0035.B01.1706261406</BiosVersion>
+    <BoardID>Mac-F2268DAE</BoardID>
+    <BoardManufacturer>Apple Inc.</BoardManufacturer>
+    <BoardVersion>iMac11,1</BoardVersion>
+    <BoardType>10</BoardType>
+    <ChassisManufacturer>Apple Inc.</ChassisManufacturer>
+    <ChassisType>0D</ChassisType>
+    <ChassisAsset>iMac-Aluminum</ChassisAsset>
+    <LocationInChassis>Part Component</LocationInChassis>
+    <Family>iMac</Family>
+    <FirmwareVendor>Apple Inc.</FirmwareVendor>
+    <Manufacturer>Apple Inc.</Manufacturer>
+    <Mobile>false</Mobile>
+    <ProductName>iMac11,1</ProductName>
+    <SmcRevision>1.54f36</SmcRevision>
+    <Version>1.0</Version>
+
+    <PrettyName>iMac 11,1 - Core i5/i7 Lynnfield</PrettyName>
+    <Year>2009,2010</Year>
+    <ModelId>5PJ</ModelId>
+
+    <specs>
+        <cpu>Core i5-750 / Core i7-860</cpu>
+        <gfx>ATI Radeon HD 4850</gfx>
+        <ram>1066 MHz PC3-8500 DDR3 SDRAM</ram>
+    </specs>
+</mac>
+<mac model="imac112">
+    <BiosReleaseDate>06/26/17</BiosReleaseDate>
+    <BiosVendor>Apple Inc.</BiosVendor>
+    <BiosVersion>IM112.88Z.0058.B01.1706261628</BiosVersion>
+    <BoardID>Mac-F2238AC8</BoardID>
+    <BoardManufacturer>Apple Inc.</BoardManufacturer>
+    <BoardVersion>iMac11,2</BoardVersion>
+    <BoardType>10</BoardType>
+    <ChassisManufacturer>Apple Inc.</ChassisManufacturer>
+    <ChassisType>0D</ChassisType>
+    <ChassisAsset>iMac-Aluminum</ChassisAsset>
+    <LocationInChassis>Part Component</LocationInChassis>
+    <Family>iMac</Family>
+    <FirmwareVendor>Apple Inc.</FirmwareVendor>
+    <Manufacturer>Apple Inc.</Manufacturer>
+    <Mobile>false</Mobile>
+    <ProductName>iMac11,2</ProductName>
+    <SmcRevision>1.64f5</SmcRevision>
+    <Version>1.2</Version>
+
+    <PrettyName>iMac 11,2 - Core i3/i5 Clarkdale</PrettyName>
+    <Year>2010,2011</Year>
+    <ModelId>DB7</ModelId>
+
+    <specs>
+        <cpu>Core i3-540 / Core i3-550 / Core i5-680</cpu>
+        <gfx>ATI Radeon HD 5670 / ATI Radeon HD 4670</gfx>
+        <ram>1333 MHz PC3-10600 DDR3 SDRAM</ram>
+    </specs>
+</mac>
+<mac model="imac113">
+    <BiosReleaseDate>06/26/17</BiosReleaseDate>
+    <BiosVendor>Apple Inc.</BiosVendor>
+    <BiosVersion>IM112.88Z.0058.B01.1706261628</BiosVersion>
+    <BoardID>Mac-F2238BAE</BoardID>
+    <BoardManufacturer>Apple Inc.</BoardManufacturer>
+    <BoardVersion>iMac11,3</BoardVersion>
+    <BoardType>10</BoardType>
+    <ChassisManufacturer>Apple Inc.</ChassisManufacturer>
+    <ChassisType>0D</ChassisType>
+    <ChassisAsset>iMac-Aluminum</ChassisAsset>
+    <LocationInChassis>Part Component</LocationInChassis>
+    <Family>iMac</Family>
+    <FirmwareVendor>Apple Inc.</FirmwareVendor>
+    <Manufacturer>Apple Inc.</Manufacturer>
+    <Mobile>false</Mobile>
+    <ProductName>iMac11,3</ProductName>
+    <SmcRevision>1.59f2</SmcRevision>
+    <Version>1.0</Version>
+
+    <PrettyName>iMac 11,3 - Core i3/i5/i7 Lynnfield/Clarkdale</PrettyName>
+    <Year>2010,2011</Year>
+    <ModelId>DNR</ModelId>
+
+    <specs>
+        <cpu>Core i3-550 / Core i5-760 / Core i5-680 / Core i7-870</cpu>
+        <gfx>ATI Radeon HD 5750 / ATI Radeon HD 5670</gfx>
+        <ram>1333 MHz PC3-10600 DDR3 SDRAM</ram>
+    </specs>
+</mac>
+<mac model="imac121">
+    <BiosReleaseDate>06/26/17</BiosReleaseDate>
+    <BiosVendor>Apple Inc.</BiosVendor>
+    <BiosVersion>IM121.88Z.004A.B01.1706261231</BiosVersion>
+    <BoardID>Mac-942B5BF58194151B</BoardID>
+    <BoardManufacturer>Apple Inc.</BoardManufacturer>
+    <BoardVersion>iMac12,1</BoardVersion>
+    <BoardType>10</BoardType>
+    <ChassisManufacturer>Apple Inc.</ChassisManufacturer>
+    <ChassisType>0D</ChassisType>
+    <ChassisAsset>iMac-Aluminum</ChassisAsset>
+    <LocationInChassis>Part Component</LocationInChassis>
+    <Family>iMac</Family>
+    <FirmwareVendor>Apple Inc.</FirmwareVendor>
+    <Manufacturer>Apple Inc.</Manufacturer>
+    <Mobile>false</Mobile>
+    <ProductName>iMac12,1</ProductName>
+    <SmcRevision>1.71f22</SmcRevision>
+    <Version>1.9</Version>
+
+    <PrettyName>iMac 12,1 - Core i3/i5/i7 Sandy Bridge</PrettyName>
+    <Year>2011,2012</Year>
+    <ModelId>DHJF</ModelId>
+
+    <specs>
+        <cpu>Core i3-2100 / Core i5-2500S / Core i5-2400S / Core i7-2600S</cpu>
+        <gfx>AMD Radeon HD 6770M / AMD Radeon HD 6750M</gfx>
+        <ram>1333 MHz PC3-10600 DDR3 SDRAM</ram>
+    </specs>
+</mac>
+<mac model="imac122">
+    <BiosReleaseDate>06/26/17</BiosReleaseDate>
+    <BiosVendor>Apple Inc.</BiosVendor>
+    <BiosVersion>IM121.88Z.004A.B01.1706261231</BiosVersion>
+    <BoardID>Mac-942B59F58194171B</BoardID>
+    <BoardManufacturer>Apple Inc.</BoardManufacturer>
+    <BoardVersion>iMac12,2</BoardVersion>
+    <BoardType>10</BoardType>
+    <ChassisManufacturer>Apple Inc.</ChassisManufacturer>
+    <ChassisType>0D</ChassisType>
+    <ChassisAsset>iMac-Aluminum</ChassisAsset>
+    <LocationInChassis>Part Component</LocationInChassis>
+    <Family>iMac</Family>
+    <FirmwareVendor>Apple Inc.</FirmwareVendor>
+    <Manufacturer>Apple Inc.</Manufacturer>
+    <Mobile>false</Mobile>
+    <ProductName>iMac12,2</ProductName>
+    <SmcRevision>1.72f2</SmcRevision>
+    <Version>1.9</Version>
+
+    <PrettyName>iMac 12,2 - Core i5/i7 Sandy Bridge</PrettyName>
+    <Year>2011,2012</Year>
+    <ModelId>DHJQ</ModelId>
+
+    <specs>
+        <cpu>Core i5-2400 / Core i5-2500S / Core i7-2600</cpu>
+        <gfx>AMD Radeon HD 6970M / AMD Radeon HD 6770M</gfx>
+        <ram>1333 MHz PC3-10600 DDR3 SDRAM</ram>
+    </specs>
+</mac>
+<mac model="imac131">
+    <BiosReleaseDate>06/26/2017</BiosReleaseDate>
+    <BiosVendor>Apple Inc.</BiosVendor>
+    <BiosVersion>IM131.88Z.010C.B01.1706261419</BiosVersion>
+    <BoardID>Mac-00BE6ED71E35EB86</BoardID>
+    <BoardManufacturer>Apple Inc.</BoardManufacturer>
+    <BoardVersion>iMac13,1</BoardVersion>
+    <BoardType>10</BoardType>
+    <ChassisManufacturer>Apple Inc.</ChassisManufacturer>
+    <ChassisType>0D</ChassisType>
+    <ChassisAsset>iMac-Aluminum</ChassisAsset>
+    <LocationInChassis>Part Component</LocationInChassis>
+    <Family>iMac</Family>
+    <FirmwareVendor>Apple Inc.</FirmwareVendor>
+    <Manufacturer>Apple Inc.</Manufacturer>
+    <Mobile>false</Mobile>
+    <ProductName>iMac13,1</ProductName>
+    <SmcRevision>2.9f5</SmcRevision>
+    <Version>1.0</Version>
+
+    <PrettyName>iMac 13,1 - Core i3/i5/i7 Ivy Bridge</PrettyName>
+    <Year>2012,2013</Year>
+    <ModelId>DNCT</ModelId>
+
+    <specs>
+        <cpu>Core i3-3225 / Core i5-3335S / Core i5-3470S / Core i7-3770S</cpu>
+        <gfx>Intel HD Graphics 4000 / NVIDIA GeForce GT 640M / NVIDIA GeForce GT 650M</gfx>
+        <ram>1600 MHz DDR3 SDRAM</ram>
+    </specs>
+</mac>
+<mac model="imac132">
+    <BiosReleaseDate>06/26/2017</BiosReleaseDate>
+    <BiosVendor>Apple Inc.</BiosVendor>
+    <BiosVersion>IM131.88Z.010C.B01.1706261419</BiosVersion>
+    <BoardID>Mac-FC02E91DDD3FA6A4</BoardID>
+    <BoardManufacturer>Apple Inc.</BoardManufacturer>
+    <BoardVersion>iMac13,2</BoardVersion>
+    <BoardType>10</BoardType>
+    <ChassisManufacturer>Apple Inc.</ChassisManufacturer>
+    <ChassisType>0D</ChassisType>
+    <ChassisAsset>iMac-Aluminum</ChassisAsset>
+    <LocationInChassis>Part Component</LocationInChassis>
+    <Family>iMac</Family>
+    <FirmwareVendor>Apple Inc.</FirmwareVendor>
+    <Manufacturer>Apple Inc.</Manufacturer>
+    <Mobile>false</Mobile>
+    <ProductName>iMac13,2</ProductName>
+    <SmcRevision>2.11f16</SmcRevision>
+    <Version>1.0</Version>
+
+    <PrettyName>iMac 13,2 - Core i5/i7 Ivy Bridge</PrettyName>
+    <Year>2012,2013</Year>
+    <ModelId>DNCW</ModelId>
+
+    <specs>
+        <cpu>Core i5-3407S / Core i5-3470 / Core i7-3770</cpu>
+        <gfx>NVIDIA GeForce GTX 660M / NVIDIA GeForce GTX 675MX</gfx>
+        <ram>1600 MHz DDR3L SDRAM</ram>
+    </specs>
+</mac>
+<mac model="imac133">
+    <BiosReleaseDate>06/26/2017</BiosReleaseDate>
+    <BiosVendor>Apple Inc.</BiosVendor>
+    <BiosVersion>IM131.88Z.010C.B01.1706261419</BiosVersion>
+    <BoardID>Mac-7DF2A3B5E5D671ED</BoardID>
+    <BoardManufacturer>Apple Inc.</BoardManufacturer>
+    <BoardVersion>iMac13,3</BoardVersion>
+    <BoardType>10</BoardType>
+    <ChassisManufacturer>Apple Inc.</ChassisManufacturer>
+    <ChassisType>0D</ChassisType>
+    <ChassisAsset>iMac-Aluminum</ChassisAsset>
+    <LocationInChassis>Part Component</LocationInChassis>
+    <Family>iMac</Family>
+    <FirmwareVendor>Apple Inc.</FirmwareVendor>
+    <Manufacturer>Apple Inc.</Manufacturer>
+    <Mobile>false</Mobile>
+    <ProductName>iMac13,3</ProductName>
+    <SmcRevision>2.13f15</SmcRevision>
+    <Version>1.0</Version>
+
+    <PrettyName>iMac 13,3 - Core i3 Ivy Bridge</PrettyName>
+    <Year>2013</Year>
+    <ModelId>FFYW</ModelId>
+
+    <specs>
+        <cpu>Core i3-3225</cpu>
+        <gfx>Intel HD Graphics 4000</gfx>
+        <ram>1600 MHz DDR3 SDRAM</ram>
+    </specs>
+</mac>
+<mac model="imac141">
+    <BiosReleaseDate>06/26/2017</BiosReleaseDate>
+    <BiosVendor>Apple Inc.</BiosVendor>
+    <BiosVersion>IM141.88Z.0119.B01.1706261354</BiosVersion>
+    <BoardID>Mac-031B6874CF7F642A</BoardID>
+    <BoardManufacturer>Apple Inc.</BoardManufacturer>
+    <BoardVersion>iMac14,1</BoardVersion>
+    <BoardType>10</BoardType>
+    <ChassisManufacturer>Apple Inc.</ChassisManufacturer>
+    <ChassisType>0D</ChassisType>
+    <ChassisAsset>iMac-Aluminum</ChassisAsset>
+    <LocationInChassis>Part Component</LocationInChassis>
+    <Family>iMac</Family>
+    <FirmwareVendor>Apple Inc.</FirmwareVendor>
+    <Manufacturer>Apple Inc.</Manufacturer>
+    <Mobile>false</Mobile>
+    <ProductName>iMac14,1</ProductName>
+    <SmcRevision>2.14f24</SmcRevision>
+    <Version>1.0</Version>
+
+    <PrettyName>iMac 14,1 - Core i5 Haswell</PrettyName>
+    <Year>2013</Year>
+    <ModelId>F8J2</ModelId>
+
+    <specs>
+        <cpu>Core i5-4570R</cpu>
+        <gfx>Intel Iris Pro 5200</gfx>
+        <ram>1600 MHz DDR3 SDRAM</ram>
+    </specs>
+</mac>
+<mac model="imac142">
+    <BiosReleaseDate>06/26/2017</BiosReleaseDate>
+    <BiosVendor>Apple Inc.</BiosVendor>
+    <BiosVersion>IM142.88Z.0119.B01.1706261827</BiosVersion>
+    <BoardID>Mac-27ADBB7B4CEE8E61</BoardID>
+    <BoardManufacturer>Apple Inc.</BoardManufacturer>
+    <BoardVersion>iMac14,2</BoardVersion>
+    <BoardType>10</BoardType>
+    <ChassisManufacturer>Apple Inc.</ChassisManufacturer>
+    <ChassisType>0D</ChassisType>
+    <ChassisAsset>iMac-Aluminum</ChassisAsset>
+    <LocationInChassis>Part Component</LocationInChassis>
+    <Family>iMac</Family>
+    <FirmwareVendor>Apple Inc.</FirmwareVendor>
+    <Manufacturer>Apple Inc.</Manufacturer>
+    <Mobile>false</Mobile>
+    <ProductName>iMac14,2</ProductName>
+    <SmcRevision>2.15f7</SmcRevision>
+    <Version>1.0</Version>
+
+    <PrettyName>iMac 14,2 - Core i5/i7 Haswell</PrettyName>
+    <Year>2013</Year>
+    <ModelId>F8JC</ModelId>
+
+    <specs>
+        <cpu>Core i5-4570 / Core i5-4670 / Core i7-4771</cpu>
+        <gfx>NVIDIA GeForce GT 755M / NVIDIA GeForce GTX 775M</gfx>
+        <ram>1600 MHz PC3-12800 DDR3 SDRAM</ram>
+    </specs>
+</mac>
+<mac model="imac143">
+    <BiosReleaseDate>06/26/2017</BiosReleaseDate>
+    <BiosVendor>Apple Inc.</BiosVendor>
+    <BiosVersion>IM143.88Z.0119.B01.1706261217</BiosVersion>
+    <BoardID>Mac-77EB7D7DAF985301</BoardID>
+    <BoardManufacturer>Apple Inc.</BoardManufacturer>
+    <BoardVersion>iMac14,3</BoardVersion>
+    <BoardType>10</BoardType>
+    <ChassisManufacturer>Apple Inc.</ChassisManufacturer>
+    <ChassisType>0D</ChassisType>
+    <ChassisAsset>iMac-Aluminum</ChassisAsset>
+    <LocationInChassis>Part Component</LocationInChassis>
+    <Family>iMac</Family>
+    <FirmwareVendor>Apple Inc.</FirmwareVendor>
+    <Manufacturer>Apple Inc.</Manufacturer>
+    <Mobile>false</Mobile>
+    <ProductName>iMac14,3</ProductName>
+    <SmcRevision>2.17f7</SmcRevision>
+    <Version>1.0</Version>
+
+    <PrettyName>iMac 14,3 - Core i5/i7 Haswell</PrettyName>
+    <Year>2013</Year>
+    <ModelId>F8J3</ModelId>
+
+    <specs>
+        <cpu>Core i5-4570S / Core i7-4770S</cpu>
+        <gfx>NVIDIA GeForce GT 750M</gfx>
+        <ram>1600 MHz DDR3 SDRAM</ram>
+    </specs>
+</mac>
+<mac model="imac144">
+    <BiosReleaseDate>06/26/2017</BiosReleaseDate>
+    <BiosVendor>Apple Inc.</BiosVendor>
+    <BiosVersion>IM144.88Z.0180.B01.1706261218</BiosVersion>
+    <BoardID>Mac-81E3E92DD6088272</BoardID>
+    <BoardManufacturer>Apple Inc.</BoardManufacturer>
+    <BoardVersion>iMac14,4</BoardVersion>
+    <BoardType>10</BoardType>
+    <ChassisManufacturer>Apple Inc.</ChassisManufacturer>
+    <ChassisType>0D</ChassisType>
+    <ChassisAsset>iMac-Aluminum</ChassisAsset>
+    <LocationInChassis>Part Component</LocationInChassis>
+    <Family>iMac</Family>
+    <FirmwareVendor>Apple Inc.</FirmwareVendor>
+    <Manufacturer>Apple Inc.</Manufacturer>
+    <Mobile>true</Mobile>
+    <ProductName>iMac14,4</ProductName>
+    <SmcRevision>2.21f92</SmcRevision>
+    <Version>1.0</Version>
+
+    <PrettyName>iMac 14,4 - Core i5 Haswell</PrettyName>
+    <Year>2014</Year>
+    <ModelId>FY0T</ModelId>
+
+    <specs>
+        <cpu>Core i5-4260U</cpu>
+        <gfx>Intel HD Graphics 5000</gfx>
+        <ram>1600 MHz LPDDR3 SDRAM</ram>
+    </specs>
+</mac>
+<mac model="imac151">
+    <BiosReleaseDate>06/26/2017</BiosReleaseDate>
+    <BiosVendor>Apple Inc.</BiosVendor>
+    <BiosVersion>IM151.88Z.0208.B01.1706261354</BiosVersion>
+    <BoardID>Mac-42FD25EABCABB274</BoardID>
+    <BoardManufacturer>Apple Inc.</BoardManufacturer>
+    <BoardVersion>iMac15,1</BoardVersion>
+    <BoardType>10</BoardType>
+    <ChassisManufacturer>Apple Inc.</ChassisManufacturer>
+    <ChassisType>0D</ChassisType>
+    <ChassisAsset>iMac-Aluminum</ChassisAsset>
+    <LocationInChassis>Part Component</LocationInChassis>
+    <Family>iMac</Family>
+    <FirmwareVendor>Apple Inc.</FirmwareVendor>
+    <Manufacturer>Apple Inc.</Manufacturer>
+    <Mobile>false</Mobile>
+    <ProductName>iMac15,1</ProductName>
+    <SmcRevision>2.22f16</SmcRevision>
+    <Version>1.0</Version>
+
+    <PrettyName>iMac 15,1 - Core i5/i7 Haswell</PrettyName>
+    <Year>2014</Year>
+    <ModelId>FY10</ModelId>
+
+    <specs>
+        <cpu>Core i5-4690 / Core i5-4590 / Core i7-4790K</cpu>
+        <gfx>AMD Radeon R9 M290X / AMD Radeon R9 M290</gfx>
+        <ram>1600 MHz PC3-12800 DDR3 SDRAM</ram>
+    </specs>
+</mac>
+<mac model="imac161">
+    <BiosReleaseDate>06/26/2017</BiosReleaseDate>
+    <BiosVendor>Apple Inc.</BiosVendor>
+    <BiosVersion>IM161.88Z.0209.B02.1706261516</BiosVersion>
+    <BoardID>Mac-A369DDC4E67F1C45</BoardID>
+    <BoardManufacturer>Apple Inc.</BoardManufacturer>
+    <BoardVersion>iMac16,1</BoardVersion>
+    <BoardType>10</BoardType>
+    <ChassisManufacturer>Apple Inc.</ChassisManufacturer>
+    <ChassisType>09</ChassisType>
+    <ChassisAsset>iMac-Aluminum</ChassisAsset>
+    <LocationInChassis/>
+    <Family>iMac</Family>
+    <FirmwareVendor>Apple Inc.</FirmwareVendor>
+    <Manufacturer>Apple Inc.</Manufacturer>
+    <Mobile>true</Mobile>
+    <ProductName>iMac16,1</ProductName>
+    <SmcRevision>2.31f36</SmcRevision>
+    <Version>1.0</Version>
+
+    <PrettyName>iMac 16,1 - Core i5 Broadwell</PrettyName>
+    <Year>2015</Year>
+    <ModelId>GF1J</ModelId> <!-- probably wrong -->
+
+    <specs>
+        <cpu>Core i5-5250U</cpu>
+        <gfx>Intel HD Graphics 6000</gfx>
+        <ram>1867 MHz LPDDR3 SDRAM</ram>
+    </specs>
+</mac>
+<mac model="imac162">
+    <BiosReleaseDate>06/26/2017</BiosReleaseDate>
+    <BiosVendor>Apple Inc.</BiosVendor>
+    <BiosVersion>IM162.88Z.0209.B02.1706261516</BiosVersion>
+    <BoardID>Mac-FFE5EF870D7BA81A</BoardID>
+    <BoardManufacturer>Apple Inc.</BoardManufacturer>
+    <BoardVersion>iMac16,2</BoardVersion>
+    <BoardType>10</BoardType>
+    <ChassisManufacturer>Apple Inc.</ChassisManufacturer>
+    <ChassisType>09</ChassisType>
+    <ChassisAsset>iMac-Aluminum</ChassisAsset>
+    <LocationInChassis/>
+    <Family>iMac</Family>
+    <FirmwareVendor>Apple Inc.</FirmwareVendor>
+    <Manufacturer>Apple Inc.</Manufacturer>
+    <Mobile>false</Mobile>
+    <ProductName>iMac16,2</ProductName>
+    <SmcRevision>2.32f20</SmcRevision>
+    <Version>1.0</Version>
+
+    <PrettyName>iMac 16,2 - Core i5/i7 Broadwell</PrettyName>
+    <Year>2015</Year>
+    <ModelId>GG7G</ModelId>
+
+    <specs>
+        <cpu>Core i5-5675R / Core i5-5575R / Core i7-5775R</cpu>
+        <gfx>Intel Iris Pro 6200</gfx>
+        <ram>1867 MHz LPDDR3 SDRAM</ram>
+    </specs>
+</mac>
+<mac model="imac171">
+    <BiosReleaseDate>06/26/2017</BiosReleaseDate>
+    <BiosVendor>Apple Inc.</BiosVendor>
+    <BiosVersion>IM171.88Z.0106.B01.1706260138</BiosVersion>
+    <BoardID>Mac-B809C3757DA9BB8D</BoardID>
+    <BoardManufacturer>Apple Inc.</BoardManufacturer>
+    <BoardVersion>iMac17,1</BoardVersion>
+    <BoardType>10</BoardType>
+    <ChassisManufacturer>Apple Inc.</ChassisManufacturer>
+    <ChassisType>09</ChassisType>
+    <ChassisAsset>iMac-Aluminum</ChassisAsset>
+    <LocationInChassis/>
+    <Family>iMac17,1</Family>
+    <FirmwareVendor>Apple Inc.</FirmwareVendor>
+    <Manufacturer>Apple Inc.</Manufacturer>
+    <Mobile>false</Mobile>
+    <ProductName>iMac17,1</ProductName>
+    <SmcRevision>2.33f10</SmcRevision>
+    <Version>1.0</Version>
+
+    <PrettyName>iMac 17,1 - Core i5/i7 Skylake</PrettyName>
+    <Year>2015</Year>
+    <ModelId>GG7L</ModelId>
+
+    <specs>
+        <cpu>Core i5-6600 / Core i5-6500 / Core i7-6700K</cpu>
+        <gfx>AMD Radeon R9 M390 / AMD Radeon R9 M395</gfx>
+        <ram>1867 MHz PC3-14900 LPDDR3 SDRAM</ram>
+    </specs>
+</mac>
+<mac model="imac181">
+    <BiosReleaseDate>06/25/2017</BiosReleaseDate>
+    <BiosVendor>Apple Inc.</BiosVendor>
+    <BiosVersion>IM181.88Z.0147.B01.1706251744</BiosVersion>
+    <BoardID>Mac-4B682C642B45593E</BoardID>
+    <BoardManufacturer>Apple Inc.</BoardManufacturer>
+    <BoardVersion>iMac18,1</BoardVersion>
+    <BoardType>10</BoardType>
+    <ChassisManufacturer>Apple Inc.</ChassisManufacturer>
+    <ChassisType>09</ChassisType>
+    <ChassisAsset>iMac-Aluminum</ChassisAsset>
+    <LocationInChassis/>
+    <Family>iMac</Family>
+    <FirmwareVendor>Apple Inc.</FirmwareVendor>
+    <Manufacturer>Apple Inc.</Manufacturer>
+    <Mobile>false</Mobile>
+    <ProductName>iMac18,1</ProductName>
+    <SmcRevision>2.41f1</SmcRevision>
+    <Version>1.0</Version>
+
+    <PrettyName>iMac 18,1 - Core i5 Kaby Lake</PrettyName>
+    <Year>2017</Year>
+    <ModelId>H7JY</ModelId>
+
+    <specs>
+        <cpu>Core i5-7360U</cpu>
+        <gfx>Intel Iris Plus Graphics 640</gfx>
+        <ram>2133 MHz DDR4 SDRAM</ram>
+    </specs>
+</mac>
+<mac model="imac182">
+    <BiosReleaseDate>06/25/2017</BiosReleaseDate>
+    <BiosVendor>Apple Inc.</BiosVendor>
+    <BiosVersion>IM181.88Z.0147.B01.1706251744</BiosVersion>
+    <BoardID>Mac-77F17D7DA9285301</BoardID>
+    <BoardManufacturer>Apple Inc.</BoardManufacturer>
+    <BoardVersion>iMac18,2</BoardVersion>
+    <BoardType>10</BoardType>
+    <ChassisManufacturer>Apple Inc.</ChassisManufacturer>
+    <ChassisType>09</ChassisType>
+    <ChassisAsset>iMac-Aluminum</ChassisAsset>
+    <LocationInChassis/>
+    <Family>iMac</Family>
+    <FirmwareVendor>Apple Inc.</FirmwareVendor>
+    <Manufacturer>Apple Inc.</Manufacturer>
+    <Mobile>false</Mobile>
+    <ProductName>iMac18,2</ProductName>
+    <SmcRevision>2.41f1</SmcRevision>
+    <Version>1.0</Version>
+
+    <PrettyName>iMac 18,2 - Core i5/i7 Kaby Lake</PrettyName>
+    <Year>2017</Year>
+    <ModelId>J1G5</ModelId>
+
+    <specs>
+        <cpu>Core i5-7400 / Core i5-7500 / Core i7-7700</cpu>
+        <gfx>AMD Radeon Pro 555 / AMD Radeon Pro 560</gfx>
+        <ram>2400 MHz DDR4 SDRAM</ram>
+    </specs>
+</mac>
+<mac model="imac183">
+    <BiosReleaseDate>06/25/2017</BiosReleaseDate>
+    <BiosVendor>Apple Inc.</BiosVendor>
+    <BiosVersion>IM183.88Z.0147.B01.1706251744</BiosVersion>
+    <BoardID>Mac-BE088AF8C5EB4FA2</BoardID>
+    <BoardManufacturer>Apple Inc.</BoardManufacturer>
+    <BoardVersion>iMac18,3</BoardVersion>
+    <BoardType>10</BoardType>
+    <ChassisManufacturer>Apple Inc.</ChassisManufacturer>
+    <ChassisType>09</ChassisType>
+    <ChassisAsset>iMac-Aluminum</ChassisAsset>
+    <LocationInChassis/>
+    <Family>iMac</Family>
+    <FirmwareVendor>Apple Inc.</FirmwareVendor>
+    <Manufacturer>Apple Inc.</Manufacturer>
+    <Mobile>false</Mobile>
+    <ProductName>iMac18,3</ProductName>
+    <SmcRevision>2.41f1</SmcRevision>
+    <Version>1.0</Version>
+
+    <PrettyName>iMac 18,3 - Core i5/i7 Kaby Lake</PrettyName>
+    <Year>2017</Year>
+    <ModelId>J1GJ</ModelId>
+
+    <specs>
+        <cpu>Core i5-7500 / i5-7600 / i5-7600K / i7-7700K</cpu>
+        <gfx>AMD Radeon Pro 570 / AMD Radeon Pro 575 / AMD Radeon Pro 580</gfx>
+        <ram>2400 MHz DDR4 SDRAM</ram>
+    </specs>
+</mac>
+</SMBIOS>

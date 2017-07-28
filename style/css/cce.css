@@ -1,0 +1,1273 @@
+/*!
+ * Cloud Clover Editor
+ * Copyright (C) kylon - 2016-2017
+ * Licensed under GPLv3 license
+ */
+@import "font-awesome.min.css";
+
+html {
+    height: 100%;
+}
+
+body {
+    height: 100%;
+    font-size: 12px !important;
+}
+
+a {
+    text-decoration: none!important;
+}
+
+input[type=checkbox] {
+    margin-top: 0 !important;
+}
+
+input[type=text] {
+    color: black !important;
+}
+
+input[type="text"]:disabled {
+    background: rgba(255, 255, 255, 0.64) !important;
+    cursor: not-allowed;
+}
+
+select:disabled {
+    cursor: not-allowed!important;
+}
+
+.hidden-el {
+    display: none;
+}
+
+/*
+ * PS SCROLLBAR CUSTOM
+ */
+.ps-container > .ps-scrollbar-y-rail > .ps-scrollbar-y {
+    width: 4px !important;
+}
+
+.ps-container > .ps-scrollbar-x-rail > .ps-scrollbar-x {
+    height: 4px !important;
+}
+
+.ps-container > .ps-scrollbar-y-rail {
+    width: 4px !important;
+}
+
+.ps-container > .ps-scrollbar-x-rail {
+    height: 4px !important;
+}
+
+/*
+ * COMMON RULES
+ */
+.main-tab {
+    padding-bottom: 30px;
+}
+
+.vertical-center {
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.cceNotf {
+    position: fixed!important;
+    top: 10px!important;
+    z-index: 1001!important;
+    right: 10px!important;
+    padding: 10px!important;
+}
+
+.alert {
+    margin-bottom: 3px !important;
+    padding: 5px !important;
+    font-size: 15px !important;
+    width: 150px;
+    text-align: center;
+}
+
+.alert i {
+    font-size: 1.3em;
+}
+
+.alert-success {
+    color: #f8f8f8!important;
+    background-color: rgb(92, 169, 219)!important;
+    border: none!important;
+}
+
+.alert-error {
+    background: rgb(236, 85, 85) none repeat scroll 0 0;
+    color: white;
+}
+
+.form-group {
+    text-align: center;
+}
+
+.single-item-add {
+    height:22px;
+}
+
+.single-items-panel {
+    white-space: nowrap;
+    overflow-x: auto;
+    overflow-y: hidden;
+    font-size: 0;
+}
+
+.single-items-panel .modal {
+    white-space: initial;
+    font-size: 12px;
+}
+
+.single-item {
+    text-align: center;
+    display: inline-block;
+    margin-right: 4px;
+    font-size: 12px;
+    position: relative;
+}
+
+.single-item:hover {
+    background: rgb(102, 163, 192) none repeat scroll 0 0;
+    color:white;
+}
+
+.single-item-icon {
+    font-size: 7em;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.single-item-title {
+    height: 17px;
+}
+
+.single-item-del-btn {
+    background: rgb(206, 100, 100) none repeat scroll 0 0;
+    color: white;
+    border: 0 none;
+    cursor: pointer!important;
+    width: 100%!important;
+}
+
+.single-item-cp-btn {
+    color: white;
+    border: 0 none;
+    cursor: pointer!important;
+    width: 100%!important;
+}
+
+.single-item-del-btn:hover {
+    background: #9e3333;
+}
+
+.single-item-cp-btn:hover {
+    background: #CCA714;
+}
+
+.margin-top-15 {
+    margin-top: 15px;
+}
+
+.margin-top-30 {
+    margin-top: 30px;
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
+
+.text-left {
+    text-align: left !important;
+}
+
+/*
+ * COMBOBOX
+ */
+.combobox {
+    position: relative;
+}
+
+.combobox-input {
+    width: 100%;
+    border: 1px solid #d5d5d5;
+    border-radius: 5px;
+    padding: 6px 12px;
+    position:relative;
+}
+
+.combobox-input:focus {
+    border-color: #66afe9;
+    outline: 0;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075),0 0 8px rgba(102,175,233,.6);
+    box-shadow: inset 0 1px 1px rgba(0,0,0,.075),0 0 8px rgba(102,175,233,.6);
+}
+
+.combobox-arrow {
+    position:absolute;
+    padding: 11px;
+    right: 0;
+    cursor: pointer;
+}
+
+.combobox-opt-container {
+    width: 100%;
+    position:absolute;
+    border: 1px solid #9eafbf;
+    max-height:84px;
+    background-color:#FFF;
+    overflow:auto;
+    z-index:1000;
+    text-align: left;
+}
+
+.combobox-hide {
+    display: none;
+}
+
+.combobox-opt {
+    font-size:13px;
+    overflow:hidden;
+    white-space:nowrap;
+    padding: 1px 1px 1px 4px;
+    cursor: pointer;
+}
+
+.combobox-opt:hover {
+    background-color: rgb(70, 151, 189);
+    color: white;
+}
+
+.combobox-input-group {
+    border-radius: 5px 0 0 5px!important;
+}
+
+.combobox-input-group-btn {
+    padding: 4.4px 11px!important;
+}
+
+/*
+ * RIGHT SIDEBAR
+ */
+#sidebar-right {
+    width: 260px;
+    height: 100%;
+    position: fixed;
+    right: -260px;
+    z-index: 1000;
+    -webkit-transition: all .5s ease;
+    -moz-transition: all .5s ease;
+    -o-transition: all .5s ease;
+    transition: all .5s ease;
+}
+
+.sidebar-right-toggled {
+    right: 0!important;
+}
+
+.side-right-btn {
+    background: #5d5d5d none repeat scroll 0 0;
+    height: 40px;
+    width: 40px;
+    text-align: center;
+    position: absolute;
+    left: -40px;
+    top: 12px;
+    color: white;
+    cursor: pointer;
+    border-radius: 3px 0 0 3px;
+}
+
+.side-right-cont {
+    padding: 15px;
+    height: 100%;
+    background: rgba(45, 45, 45, 0.66) none repeat scroll 0 0;
+    width: 100%;
+}
+
+.multi-conf-handle {
+    padding: 8px;
+    font-size: 2em;
+}
+
+.config-square-add {
+    cursor: pointer;
+    background: #82a1d5;
+    color: white;
+    text-align: center;
+    position: absolute;
+    width: 100%;
+    z-index: 1000;
+}
+
+.config-square-add:hover {
+    background: #7996c6;
+}
+
+.config-square-add i {
+    padding: 3px;
+    font-size: 1.5em;
+}
+
+.session-switch-form {
+    display: none;
+}
+
+.config-square {
+    background: url("../img/prev.jpg") no-repeat;
+    background-size: contain;
+    height: 160px;
+    margin-bottom: 15px;
+    position: relative;
+    cursor: pointer;
+}
+
+.config-close-x-btn {
+    height: 29px;
+    width: 30px;
+    background: rgb(227, 98, 98) none repeat scroll 0 0;
+    color: white;
+    position: absolute;
+    right: 0;
+    text-align: center;
+    cursor: pointer;
+}
+
+.config-close-x-btn:hover {
+    background: rgb(225, 65, 65) none repeat scroll 0 0;
+}
+
+.x-config-sqaure {
+    font-size: 2em;
+}
+
+.save-config-square-btn {
+    bottom: 0;
+    position: absolute;
+    width: 100%;
+    background: rgb(76, 189, 94) none repeat scroll 0 0;
+    padding: 5px;
+    color: white;
+    text-align: center;
+    border: none;
+}
+
+.save-config-square-btn:hover {
+    background: rgb(61, 183, 80) none repeat scroll 0 0;
+}
+
+.config-current {
+    cursor: initial!important;
+    margin-top: 25px;
+}
+
+.config-current .save-config-square-btn {
+    background: rgb(189, 76, 76) none repeat scroll 0 0!important;
+}
+
+.config-current .save-config-square-btn:hover {
+    background: rgb(175, 72, 72) none repeat scroll 0 0!important;
+}
+
+.config-filename {
+    margin-bottom: 80px;
+    position: absolute;
+    bottom: 0;
+    text-align: center;
+    width: 100%;
+    word-wrap: break-word;
+}
+
+/*
+ * INDEX PAGE
+ */
+#cceindx {
+    background: url('../img/pattern_bg.png') fixed;
+    color: whitesmoke !important;
+}
+
+.ccelogo {
+    margin-top: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+}
+
+.upgrade-warning {
+    background: rgba(186, 42, 42, 0.82) none repeat scroll 0 0;
+    color: white;
+    border-radius: 2px;
+    padding: 10px;
+    margin-bottom: 20px;
+    font-weight: bolder;
+}
+
+.upgrade-form {
+    padding: 5px;
+}
+
+.btn-upgrade {
+    background: rgba(7, 8, 7, 0.52) none repeat scroll 0 0;
+    border: 0!important;
+    padding: 4px 12px!important;
+}
+
+.btn-upgrade:hover {
+    background: rgba(7, 8, 7, 0.69) none repeat scroll 0 0;
+    color: white!important;
+}
+
+.btn-upgrade i {
+    font-size: 1.6em;
+}
+
+.btn-upgrade span {
+    font-size: 1.1em;
+    vertical-align: middle;
+}
+
+#wrap {
+    position: relative;
+    min-height: 100%;
+    padding-bottom: 40px;
+}
+
+.index-footer-overlay {
+    margin-left: 0!important;
+    background: rgba(255, 255, 255, 0.07)!important;
+    border-top: 1px solid rgba(173, 167, 167, 0.15)!important;
+    font-weight: 600;
+}
+
+.centered-tx {
+    vertical-align: middle;
+    display: inline-block;
+    line-height: normal;
+}
+
+.pad-bottom-30 {
+    padding-bottom: 30px;
+}
+
+#file-upload {
+    display: none
+}
+
+.custom-file-upload {
+    color: rgba(254, 254, 254, 0.69);
+    cursor: pointer;
+    line-height: 200px;
+    border: 3px dashed rgba(249, 249, 249, 0.58) !important;
+    width: 100%;
+    height: 200px;
+    background: rgba(239, 239, 239, 0.04);
+    margin-top: 30px;
+    margin-bottom: 0!important;
+}
+
+.custom-file-upload:hover {
+    color: white;
+    border: 3px dashed white !important;
+}
+
+.index-new-form {
+    width: 50%;
+    float: left;
+    text-align: right;
+}
+
+.index-new-btn {
+    background: rgba(87, 182, 92, 0.8) none repeat scroll 0 0;
+    color: white;
+    border: none;
+    border-radius: 0 0 0 6px;
+    margin-top: 1px;
+}
+
+.index-new-btn:hover, .index-new-btn:focus {
+    background: rgba(91, 209, 97, 0.8) none repeat scroll 0 0;
+    color: whitesmoke;
+}
+
+.index-new-server-form {
+    width: 50%;
+    float: right;
+    text-align: left;
+}
+
+.index-new-server-btn {
+    background: #a54b4b;
+    color: white;
+    border: none;
+    border-radius: 0 0 6px 0;
+    margin-top: 1px;
+}
+
+.index-new-server-btn:hover, .index-new-server-btn:focus {
+    background: #a55b5b;
+    color: white;
+}
+
+.cce-bank-search {
+    width: 100%;
+    background: rgba(142, 172, 203, 0.5);
+    border: none;
+    padding: 7px;
+    border-radius: 6px 6px 0 0;
+    font-weight: 600;
+}
+
+.cce-bank-search::-webkit-input-placeholder { /* WebKit, Blink, Edge */
+    color: rgba(255, 251, 253, 0.57);
+}
+
+.cce-bank-search:-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+    color: rgba(255, 251, 253, 0.57);
+    opacity:  1;
+}
+
+.cce-bank-search::-moz-placeholder { /* Mozilla Firefox 19+ */
+    color: rgba(255, 251, 253, 0.57);
+    opacity:  1;
+}
+
+.cce-bank-search:-ms-input-placeholder { /* Internet Explorer 10-11 */
+    color: rgba(255, 251, 253, 0.57);
+}
+
+.cce-bank-container {
+    height: 200px;
+    background: rgba(143, 134, 134, 0.1);
+    border: 3px dashed rgba(249, 249, 249, 0.58);
+    padding: 15px;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+
+.bank-config-box {
+    text-align: center;
+    margin-bottom: 12px;
+}
+
+.bank-config-box .bank-box-icons {
+    position: relative;
+    width: 100%;
+}
+
+.bank-config-box .bank-config-locked {
+    position: absolute;
+    margin-top: 18px;
+    margin-left: -34px;
+    font-size: 1.4em;
+    color: #c36e6e;
+}
+
+.bank-config-box:hover, .bank-config-box:focus {
+    background: rgba(255, 255, 255, 0.2);
+    cursor: pointer;
+}
+
+.bank-config-icon {
+    font-size: 5em;
+}
+
+/*
+ * SIDEBAR
+ */
+.sidebar-nav {
+    width: 100% !important;
+}
+
+.sidebar-mobile {
+    position: fixed;
+    z-index: 999;
+    width: 0;
+    height: 100%;
+    -webkit-transition: all .5s ease;
+    -moz-transition: all .5s ease;
+    -o-transition: all .5s ease;
+    transition: all .5s ease;
+}
+
+.mobile-toggled {
+    padding-left: 220px;
+    -webkit-transition: all .5s ease;
+    -moz-transition: all .5s ease;
+    -o-transition: all .5s ease;
+    transition: all .5s ease;
+}
+
+.sidebar-mobile div {
+    position: absolute;
+    top: 0;
+    width: 15px;
+    margin: 0;
+    padding: 0;
+    list-style: outside none none;
+    height: 100%;
+    background: #171616;
+    text-align: center;
+    cursor: pointer;
+    color: white;
+    border-left: 01px solid RGBA(50, 50, 50, 0.24);
+}
+
+.sidebar-mobile div i {
+    font-size: 1.8em;
+}
+
+/*
+ * COMMON - TABS ONLY
+ */
+.bg-green-flat {
+    background: rgb(129, 221, 88) none repeat scroll 0 0;
+}
+
+.bg-red-flat {
+    background: #d56060;
+}
+
+.bg-yellow-flat {
+    background: #F4D03F;
+}
+
+.bg-lightgrey {
+    background: rgba(231, 231, 231, 0.89) none repeat scroll 0 0;
+}
+
+.color-disabled {
+    color: rgb(158, 156, 156) !important;
+}
+
+.cce-tab-footer {
+    background: rgba(114, 102, 102, 0.05);
+    border-top: 1px solid rgba(185, 176, 176, 0.46);
+    bottom: 0;
+    position: absolute;
+    right: 0;
+    left: 0;
+    margin-left: 220px;
+    padding: 10px;
+    text-align: center;
+}
+
+.addTbBtn, .delTbBtn, .cpTbBtn {
+    width: 60px;
+    height: 20px;
+    float: right;
+    color: white;
+    text-align: center;
+    cursor: pointer;
+}
+
+.addTbBtn i {
+    padding: 5px;
+}
+
+.delTbBtn {
+    border-radius: 5px 0 0 0;
+}
+
+.addTbBtn {
+    border-radius: 0 5px 0 0;
+}
+
+.noDelBtn {
+    border-radius: 5px 5px 0 0;
+}
+
+.title {
+    font-weight: 600;
+    padding: 10px 5px 15px;
+    font-size: 15px;
+    font-style: oblique;
+    color: #137ea8;
+}
+
+.subtitle {
+    font-weight: 600;
+    padding-bottom: 4px;
+}
+
+.padtop-10 {
+    padding-top: 10px;
+}
+
+.table-scroll {
+    margin-bottom: 10px;
+    overflow-x: auto;
+}
+
+.patch-table, .patch-table table {
+    width: 100%;
+    table-layout: fixed;
+}
+
+.table-scrollbody {
+    width: 100%;
+    height: 90px;
+    overflow: auto;
+    background: rgba(255, 255, 255, 0.81);
+    border: 1px solid #d0d0d0;
+}
+
+.patch-table table tr th {
+    padding: 5px;
+    background: rgb(102, 163, 192) none repeat scroll 0 0;
+}
+
+.table-scrollbody table tbody tr td {
+    padding: 6px;
+}
+
+.table {
+    background: rgba(255, 255, 255, 0.81)!important;
+}
+
+.table-scrollbody table tbody tr:hover, .selected {
+    background: #e7e7e7;
+}
+
+.entry-selected, .entry-selected:hover {
+    background: rgb(167, 211, 220) none repeat scroll 0 0 !important;
+}
+
+.entry-active, .entry-active:hover {
+    background: rgb(212, 220, 51) none repeat scroll 0 0;
+}
+
+.workaround {
+    display: none;
+}
+
+.inline-input {
+    width: 100%;
+    border: 1px solid #d5cdcd;
+    padding: 6px;
+}
+
+td input[type="checkbox"] {
+    display: block;
+}
+
+.cce-sel {
+    cursor: pointer;
+    width: 100%;
+}
+
+.inline-text {
+    cursor: text;
+    word-wrap: break-word;
+}
+.select-inTable {
+    border: none!important;
+    padding: 2px!important;
+    background: transparent url("../img/select-arrow.png") no-repeat right!important;
+}
+
+.cce-sel {
+    width: 100%;
+    border: 1px solid #c8c8bc;
+    border-radius: 4px;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    -ms-appearance: none;
+    -o-appearance: none;
+    padding: 7px;
+    background: white url("../img/select-arrow.png") no-repeat right 10px center;
+}
+
+.cce-check-inline .checkbox {
+    display: inline-block !important;
+    padding: 5px;
+}
+
+.sel-sep {
+    font-weight: 600;
+    text-align: center;
+}
+
+/*
+ * CCE TAB & editor.php
+ */
+.cce-ccelogo {
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 15px;
+    width: 300px;
+}
+
+.cce-logotx {
+    margin-top: -32px;
+    font-size: 30px;
+    margin-bottom:0;
+    color: rgba(0, 0, 0, 0.67);
+}
+
+.cce-tab-panel {
+    font-size: 16px;
+    text-align: center;
+}
+
+.cce-descr {
+    margin-top: 20px;
+}
+
+.see-readme {
+    font-style: italic;
+    font-size:12px;
+}
+
+.rtl {
+    direction: rtl;
+}
+
+.middle-sm {
+    font-size: 1.4em;
+}
+
+.download-btn {
+    color: white;
+    border: 0 none;
+    background: rgb(239, 60, 60) none repeat scroll 0 0;
+}
+
+.download-btn span, .btn-open span, .create-btn span {
+    font-size: 1.1em;
+    vertical-align: middle;
+}
+
+.download-btn:hover, .download-btn:active, .download-btn:focus {
+    background: rgba(189, 39, 39, 0.9) none repeat scroll 0 0;
+    color: white!important;
+}
+
+.btn-open {
+    background: rgb(79, 192, 79) none repeat scroll 0 0;
+    color: white;
+    border: 0 none;
+}
+
+.btn-open:hover, .btn-open:active, .btn-open:focus {
+    color: white!important;
+    background: rgb(59, 164, 59) none repeat scroll 0 0;
+}
+
+.create-btn {
+    color: white;
+    border: 0 none;
+    background: rgb(67, 128, 219) none repeat scroll 0 0;
+}
+
+.create-btn:hover, .create-btn:active, .create-btn:focus {
+    background: rgb(52, 103, 179) none repeat scroll 0 0;
+    color: white!important;
+}
+
+.cce-btn-act {
+    margin-bottom: -30px;
+}
+
+#saveForm, #createForm, #open-cfg {
+    display: none;
+}
+
+.saveas-text {
+    width: 100%;
+    border: none;
+    border-bottom: 1px solid rgb(51, 114, 155);
+    height: 30px;
+    font-size: 15px;
+}
+
+.saveas-text:focus {
+    border-bottom: 1px solid rgb(73, 157, 212);
+}
+
+.saveas-modal-header {
+    padding: 6px!important;
+}
+
+.saveas-modal-header .close {
+    margin-top: 0!important;
+}
+
+.save-btn, .copyto-btn {
+    width: 100%;
+    background: rgb(245, 245, 245) none repeat scroll 0 0;
+    color: rgb(93, 91, 91);
+}
+
+.save-btn:hover, .copyto-btn:hover {
+    background: rgb(237, 237, 237) none repeat scroll 0 0;
+    color: rgb(93, 91, 91);
+}
+
+.saveas-modal-footer {
+    padding: 0!important;
+}
+
+.saveas-text-err {
+    background: #c54f4f;
+    color: white;
+    padding: 1px;
+    border-radius: 0 0 6px 6px;
+    font-weight: 600;
+}
+
+.saveas-text-inp-err {
+    border-bottom: 1px solid rgb(197, 79, 79) !important;
+}
+
+.bank-config-edit-mode .bank-config-edit-mode-t {
+    width: 100%;
+    font-size: 15px;
+}
+
+.bank-edit-key label {
+    font-size: 15px;
+    width: 100%;
+    margin-bottom: 10px !important;
+}
+
+.bank-edit-key span {
+    font-size: 35px;
+    font-style: italic;
+    color: #777676;
+}
+
+.cce_sett_title {
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.open-cfg-drop-icon {
+    height: 300px;
+    width: 100%;
+    text-align: center;
+    border-style: dashed;
+    border-color: rgb(209, 201, 201);
+    color: rgb(209, 201, 201);
+}
+
+.open-cfg-drop-icon:hover {
+    border-color: rgb(135, 132, 132);
+    color: rgb(135, 132, 132);
+    -webkit-transition: all .2s ease-in-out;
+    -moz-transition: all .2s ease-in-out;
+    -o-transition: all .2s ease-in-out;
+    transition: all .2s ease-in-out;
+}
+
+.open-cfg-drop label i {
+    font-size: 12em;
+    top: 50%;
+    transform: translateY(-50%);
+    position: relative;
+}
+
+.bank-search-editor {
+    width: 100%;
+    border: 0.1px solid rgba(225, 212, 212, 0.8);
+    border-bottom: none;
+    padding: 7px;
+}
+
+.cce-bank-container-editor {
+    height: 270px;
+    border: 1px solid rgb(230, 230, 230);
+    padding: 8px;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+
+.cce-bank-container-editor .bank-config-box .bank-config-icon {
+    color: #6c7098;
+}
+
+.cce-bank-container-editor .bank-config-box .bank-config-locked {
+    color: white;
+}
+
+.cce-bank-container-editor .bank-config-box:hover, .cce-bank-container-editor .bank-config-box:focus {
+    background: rgba(227, 231, 237, 0.84);
+}
+
+/*
+ * ACPI TAB
+ */
+.nav > li > a {
+    padding: 2px 17px;
+}
+
+.tab-head {
+    float: none !important;
+    display: inline-block !important;
+    margin-right: -3px;
+}
+
+.tab-inactive, .tab-inactive:hover, .tab-inactive:focus {
+    background: #f9f9f9 !important;
+    color: #908A8A;
+    border-color: transparent !important;
+}
+
+.nav-tabs > li.active > a, .nav-tabs > li.active > a:focus, .nav-tabs > li.active > a:hover {
+    background: white !important;
+}
+
+.fixes-tab-bg {
+    background: rgba(255, 255, 255, 0.87) none repeat scroll 0 0;
+    border: 1px solid rgb(234, 224, 224);
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.nav-tabs {
+    border: none !important;
+}
+
+.miscDsdt .form-group {
+    margin-bottom: 0 !important;
+}
+
+.ssdtOpt select {
+    width: 100%
+}
+
+.tab-generate {
+    padding: 0 !important;
+}
+
+.ssdt-sortable {
+    width: 60px;
+    background: rgba(243, 202, 36, 0.97);
+    text-align: center;
+    cursor: move;
+}
+
+/*
+ * BOOT Tab
+ */
+.select-pad option {
+    padding: 4px;
+}
+
+/*
+ * GUI Tab
+ */
+.single-centry:hover {
+    border-radius: 24px 0 0 0;
+}
+
+.centry-sort-handle {
+    background: #81dd58;;
+    width: 30px;
+    border-radius: 100%;
+    height: 30px;
+    font-size: 19px;
+    position: absolute;
+    cursor: move;
+    color: whitesmoke;
+}
+
+/*
+ * Graphics Tab
+ */
+.dualLink {
+    width: 100%;
+}
+
+/*
+ * Kernel and Kext Patches
+ */
+.single-kext:hover {
+    background: rgb(102, 163, 192) none repeat scroll 0 0;
+    color:white;
+}
+
+.matchbuild-texarea {
+    height: 120px!important;
+}
+
+.SMslots .cce-sel {
+    width: 70%;
+}
+
+/*
+ * RT Variables Tab
+ */
+.csr-val, .btr-val {
+    font-weight: bold;
+}
+
+/*
+ * SMBIOS Tab
+ */
+.minlen-er {
+    color: #9e3333;
+}
+
+/*
+ * Ozmosis Tab
+ */
+.see-more {
+    font-weight: bold;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+/*
+ * RESPONSIVE
+ */
+@media (max-width: 495px) {
+    .disaDrv, .addProp {
+        width: 450px;
+    }
+}
+
+@media (max-width: 550px) {
+    .index-new-form {
+        width: initial;
+        float: initial;
+        text-align: initial;
+        margin-top: 20px;
+    }
+
+    .index-new-server-form {
+        width: initial;
+        float: initial;
+        text-align: initial;
+    }
+
+    .index-new-btn, .index-new-server-btn {
+        width: 100%;
+        border-radius: 6px 6px 0 0;
+    }
+
+    .index-new-server-btn {
+        margin-top: 0;
+        box-shadow: initial;
+        border-radius: 0 0 6px 6px;
+    }
+
+    .cce-bank-container { /* index */
+        padding: 13px;
+    }
+
+    .open-cfg-drop {
+        margin-bottom: 15px;
+    }
+
+    .cce-bank-search {
+        margin-top: 20px;
+    }
+
+    .forceKx, .ssdtTb, .vbiosP {
+        width: 520px;
+    }
+
+    .padtop-xs {
+        padding-top: 15px;
+    }
+}
+
+@media (max-width: 767px) {
+    #usefull-links {
+        text-align: left;
+    }
+
+    #usefull-links-ul {
+        text-align: left;
+        direction: ltr;
+    }
+
+    .dsdtP {
+        width: 700px;
+    }
+
+    #wrapper.toggled {
+        padding-left: 0;
+    }
+
+    /* Create a sort of touch area */
+    .sidebar-mobile {
+        padding-right: 40px;
+    }
+
+    .main-tab {
+        margin-left: 15px;
+    }
+
+    .cce-tab-footer {
+        margin-left: 0;
+    }
+
+    .lineHieghtMob {
+        line-height: 1!important;
+    }
+}
+
+@media (max-width: 991px) {
+    .mNvI, .mAI, .SMram, .cLegE, .cToolE {
+        width: 1000px;
+    }
+
+    .SMslots, .hideVl, .subCEn {
+        width: 800px;
+    }
+
+    .miscDsdt {
+        padding-top: 5px;
+    }
+
+    .padtop-mob {
+        padding-top: 15px;
+    }
+
+    .margbot-mob {
+        margin-bottom: 10px;
+    }
+}
+
+@media (min-width: 991px) {
+    .disaDrv .cce-sel, .addProp .cce-sel {
+        width: 60%;
+    }
+}
+
+@media (min-width: 1800px) {
+    body {
+        font-size: 16px!important;
+    }
+
+    #sidebar-wrapper {
+        width: 280px;
+    }
+
+    #wrapper {
+        padding-left: 280px;
+    }
+
+    .main-tab {
+        padding-bottom: 50px;
+    }
+    .cce-tab-footer {
+        margin-left: 280px;
+    }
+
+    .cce-tab-panel {
+        font-size: 20px;
+    }
+
+    .see-readme {
+        font-size:14px;
+    }
+}
